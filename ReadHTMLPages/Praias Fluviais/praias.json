@@ -1,0 +1,1030 @@
+[
+	{
+		"id": "0",
+		"name": "Distrito de Aveiro",
+		"praias": [
+			{
+				"id": "1",
+				"nome": "Praia Fluvial de Burgães – Vale de Cambra"
+			},
+			{
+				"id": "2",
+				"nome": "Praia Fluvial da Pontemieiro – Vale de Cambra"
+			},
+			{
+				"id": "3",
+				"nome": "Praia Fluvial Paço Mato e Viadal – Vale de Cambra"
+			},
+			{
+				"id": "4",
+				"nome": "Praia Fluvial Quinta do Barco – Sever do Vouga"
+			},
+			{
+				"id": "5",
+				"nome": "Praia Fluvial Cascata da Cabreia – Sever do Vouga"
+			},
+			{
+				"id": "6",
+				"nome": "Praia Fluvial da Mizarela na Serra da Freita – Arouca"
+			},
+			{
+				"id": "7",
+				"nome": "Praia Fluvial do Areinho – Arouca"
+			},
+			{
+				"id": "8",
+				"nome": "Praia Fluvial da Espiunca – Arouca"
+			},
+			{
+				"id": "9",
+				"nome": "Praia Fluvial do Vau – Arouca"
+			},
+			{
+				"id": "10",
+				"nome": "Praia Fluvial da Paradinha, Alvarenga – Arouca"
+			},
+			{
+				"id": "11",
+				"nome": "Praia Fluvial de Meitriz, Janarde – Arouca"
+			},
+			{
+				"id": "12",
+				"nome": "Praia Fluvial da Várzea – Bairros, Castelo de Paiva"
+			},
+			{
+				"id": "13",
+				"nome": "Praia Fluvial do Castelo – Fornos, Castelo de Paiva"
+			},
+			{
+				"id": "14",
+				"nome": "Praia Fluvial de Pedorido – Castelo de Paiva"
+			},
+			{
+				"id": "17",
+				"nome": "Praia Fluvial de Bolfiar – Águeda"
+			},
+			{
+				"id": "18",
+				"nome": "Praia Fluvial do Souto do Rio – Borralha – Águeda"
+			}
+		]
+	},
+	{
+		"id": "1",
+		"name": "Distrito de Braga",
+		"praias": [
+			{
+				"id": "19",
+				"nome": "Praia Fluvial da Mamoa – Milheirós de Poiares – Santa Maria da Feira"
+			},
+			{
+				"id": "20",
+				"nome": "Praia Fluvial de São Paio Merelim – São Paio Merelim"
+			},
+			{
+				"id": "21",
+				"nome": "Praia Fluvial de Adaúfe – Adaúfe"
+			},
+			{
+				"id": "22",
+				"nome": "Praia fluvial do Cavadinho – Crespos"
+			},
+			{
+				"id": "23",
+				"nome": "Praia Fluvial de Navarra – Navarra"
+			},
+			{
+				"id": "24",
+				"nome": "Praia Fluvial de Faial – Prado, Vila Verde"
+			},
+			{
+				"id": "25",
+				"nome": "Praia Fluvial de Tregosa – Barcelos"
+			},
+			{
+				"id": "26",
+				"nome": "Praia Fluvial de Alqueirão -Terras de Bouro"
+			},
+			{
+				"id": "27",
+				"nome": "Praia fluvial da Albufeira do Rio Ermal – Vieira do Minho"
+			},
+			{
+				"id": "29",
+				"nome": "Praia fluvial de Cavez – Ribeira de Moimenta – Cabeceiras de Basto"
+			},
+			{
+				"id": "30",
+				"nome": "Praia Fluvial de Porto Carrero – Vila Verde"
+			},
+			{
+				"id": "31",
+				"nome": "Praia Fluvial da Albufeira da Queimadela – Fafe"
+			},
+			{
+				"id": "32",
+				"nome": "Praia Fluvial Albufeira do Ermal — Vieira do Minho"
+			},
+			{
+				"id": "33",
+				"nome": "Praia Fluvial Pombal — Vieira do Minho"
+			}
+		]
+	},
+	{
+		"id": "2",
+		"name": "Distrito de Bragança",
+		"praias": [
+			{
+				"id": "34",
+				"nome": "Praia Fluvial da Congida – Freixo Espada à Cinta"
+			},
+			{
+				"id": "35",
+				"nome": "Praia Fluvial Barragem do Peneireiro – Vila Flor –  Macedo de Cavaleiros"
+			},
+			{
+				"id": "36",
+				"nome": "Praia Fluvial de Fraga da Pegada – Macedo de Cavaleiros"
+			},
+			{
+				"id": "37",
+				"nome": "Praia Fluvial da Albufeira do Azibo – Macedo de Cavaleiros"
+			},
+			{
+				"id": "38",
+				"nome": "Praia Fluvial da Ribeira – Macedo de Cavaleiros"
+			},
+			{
+				"id": "39",
+				"nome": "Praia Fluvial de Maravilha – Mirandela"
+			},
+			{
+				"id": "40",
+				"nome": "Praia Fluvial Parque Dr José Gama – Mirandela"
+			},
+			{
+				"id": "41",
+				"nome": "Praia Fluvial de Quintas – Mirandela"
+			},
+			{
+				"id": "42",
+				"nome": "Praia Fluvial de Vale Juncal – Mirandela"
+			},
+			{
+				"id": "43",
+				"nome": "Praia Fluvial Ponte Maçãs — Vimioso"
+			},
+			{
+				"id": "44",
+				"nome": "Praia Fluvial Ponte Frades — Vinhais"
+			},
+			{
+				"id": "45",
+				"nome": "Praia Fluvial Ponte da Ranca — Vinhais"
+			},
+			{
+				"id": "46",
+				"nome": "Praia Fluvial Ponte Soeira — Vinhais"
+			}
+		]
+	},
+	{
+		"id": "3",
+		"name": "Distrito de Porto",
+		"praias": [
+			{
+				"id": "47",
+				"nome": "Praia Fluvial de Bitetos – Várzea do Douro – Marco de Canavezes"
+			},
+			{
+				"id": "48",
+				"nome": "Praia Fluvial da Lomba – Gondomar"
+			},
+			{
+				"id": "49",
+				"nome": "Praia fluvial de Vila Meã (Rio Odres) – Amarante"
+			},
+			{
+				"id": "50",
+				"nome": "Praia fluvial de Zebreiros – Gondomar"
+			},
+			{
+				"id": "51",
+				"nome": "Praia fluvial em Melres – Gondomar"
+			},
+			{
+				"id": "52",
+				"nome": "Praia Fluvial de Arnelas– Vila Nova de Gaia"
+			},
+			{
+				"id": "53",
+				"nome": "Praia Fluvial de Larim – Amarante"
+			}
+		]
+	},
+	{
+		"id": "4",
+		"name": "Distrito de Viana do Castelo",
+		"praias": [
+			{
+				"id": "54",
+				"nome": "Praia Fluvial de Luzim – Penafiel"
+			},
+			{
+				"id": "55",
+				"nome": "Praia Fluvial da Azenha – Vilar de Mouros – Caminha"
+			},
+			{
+				"id": "56",
+				"nome": "Praia Fluvial Lenta – Vila Nova de Cerveira"
+			},
+			{
+				"id": "57",
+				"nome": "Praia Fluvial de Ponte da Barca – Ponte da Barca"
+			},
+			{
+				"id": "58",
+				"nome": "Praia Fluvial do Taboão – Rio Coura – Paredes de Coura"
+			},
+			{
+				"id": "59",
+				"nome": "Praia fluvial do Rio Gadanha – Monção"
+			},
+			{
+				"id": "60",
+				"nome": "Praia fluvial do Arnado – Ponte de Lima"
+			},
+			{
+				"id": "61",
+				"nome": "Praia fluvial D. Ana – Ponte de Lima"
+			}
+		]
+	},
+	{
+		"id": "5",
+		"name": "Distrito de Vila Real",
+		"praias": [
+			{
+				"id": "62",
+				"nome": "Praia Fluvial de Pontilhão da Valeta – Rio Vez – Arcos de Valdevez"
+			},
+			{
+				"id": "63",
+				"nome": "Praia Fluvial de Fornelos –  Santa Marta de Penaguião"
+			},
+			{
+				"id": "64",
+				"nome": "Praia Fluvial Mesão Frio – Rio Teixeira – Mesão Frio"
+			}
+		]
+	},
+	{
+		"id": "6",
+		"name": "Distrito de Viseu",
+		"praias": [
+			{
+				"id": "65",
+				"nome": "Praia Fluvial Rabaçal — Valpaços"
+			},
+			{
+				"id": "66",
+				"nome": "Praia Fluvial de Alcafache – Mangualde"
+			},
+			{
+				"id": "67",
+				"nome": "Praia Fluvial de Caldas de Sangemil – Tondela"
+			},
+			{
+				"id": "68",
+				"nome": "Praia Fluvial do Paraíso em São João do Monte – Tondela"
+			},
+			{
+				"id": "69",
+				"nome": "Praia Fluvial do Teixo – Tondela"
+			},
+			{
+				"id": "70",
+				"nome": "Praia Fluvial de Ferreirós do Dão – Tondela"
+			},
+			{
+				"id": "71",
+				"nome": "Praia Fluvial de Nandufe – Tondela"
+			},
+			{
+				"id": "72",
+				"nome": "Praia Fluvial de Porto Várzea – Campia – Vouzela"
+			},
+			{
+				"id": "73",
+				"nome": "Praia Fluvial de Pouves – São Pedro do Sul"
+			},
+			{
+				"id": "74",
+				"nome": "Praia Fluvial Serrazes – São Pedro do Sul"
+			},
+			{
+				"id": "75",
+				"nome": "Praia Fluvial de Fráguas – Vila Nova de Paiva"
+			},
+			{
+				"id": "76",
+				"nome": "Praia Fluvial de Porto de Rei – São João de Fontoura – Resende"
+			},
+			{
+				"id": "77",
+				"nome": "Ponte e Praia Fluvial da Lagariça – Freigil – Resende"
+			},
+			{
+				"id": "78",
+				"nome": "Praia Fluvial de Porto de Rei – Resende"
+			},
+			{
+				"id": "79",
+				"nome": "Poço Azul – Praia Fluvial Selvagem em Sabrosa – Santa Cruz da Trapa"
+			},
+			{
+				"id": "80",
+				"nome": "Praia Fluvial da Folgosa – Castro Daire"
+			},
+			{
+				"id": "81",
+				"nome": "Praia Fluvial da Albufeira do Vilar – Moimenta da Beira"
+			},
+			{
+				"id": "82",
+				"nome": "Praia Fluvial d e Segões – Segões – Moimenta da Beira"
+			},
+			{
+				"id": "83",
+				"nome": "Praia Fluvial Senhora da Ribeira – Pinheiro De Ázere – Santa Comba Dão"
+			}
+		]
+	},
+	{
+		"id": "7",
+		"name": "Distrito de Coimbra",
+		"praias": [
+			{
+				"id": "84",
+				"nome": "Praia Fluvial Casal de Sejães – Oliveia de Frades"
+			},
+			{
+				"id": "85",
+				"nome": "Praia Fluvial do Reconquinho – Penacova"
+			},
+			{
+				"id": "86",
+				"nome": "Praia Fluvial de Palheiros e Zorro – Torres do Mondego – Coimbra"
+			},
+			{
+				"id": "87",
+				"nome": "Praia Fluvial Sra. da Graça – Serpins"
+			},
+			{
+				"id": "88",
+				"nome": "Praia Fluvial Canaveias – Góis"
+			},
+			{
+				"id": "89",
+				"nome": "Praia Fluvial dos Olhos da Fervença – Cadima – Cantanhede"
+			},
+			{
+				"id": "90",
+				"nome": "Praia Fluvial de Ançã – Cantanhede"
+			},
+			{
+				"id": "91",
+				"nome": "Praia Fluvial das Sete Fontes – Ourentã – Cantanhede"
+			},
+			{
+				"id": "92",
+				"nome": "Praia Fluvial da Peneda – Góis"
+			},
+			{
+				"id": "93",
+				"nome": "Praia Fluvial da Peneda da Cascalheira – Secarias – Arganil"
+			},
+			{
+				"id": "94",
+				"nome": "Praia Fluvial da Peneda de Pego Escuro – Arganil"
+			},
+			{
+				"id": "95",
+				"nome": "Praia Fluvial Benfeita – Arganil"
+			},
+			{
+				"id": "96",
+				"nome": "Praia Fluvial Pomares – Arganil"
+			},
+			{
+				"id": "97",
+				"nome": "Praia Fluvial de Coja – Arganil"
+			},
+			{
+				"id": "98",
+				"nome": "Praia Fluvial de Piodão – Arganil"
+			},
+			{
+				"id": "99",
+				"nome": "Praia Fluvial de Foz D´Égua – Arganil"
+			},
+			{
+				"id": "100",
+				"nome": "Praia Fluvial de Valeiro do Barco – Sarzedo – Arganil"
+			},
+			{
+				"id": "101",
+				"nome": "Praia Fluvial de Secarias – Arganil"
+			},
+			{
+				"id": "102",
+				"nome": "Praia Fluvial  da Peneda Talhada – Secarias – Arganil"
+			},
+			{
+				"id": "103",
+				"nome": "Praia Fluvoial do Povo da Cesta – Casal Novo – Arganil"
+			},
+			{
+				"id": "104",
+				"nome": "Praia Fluvial  de Urtigal – Barril de Alva – Arganil"
+			},
+			{
+				"id": "105",
+				"nome": "Praia Fluvial do Poço do Pujadouro – Cepos – Arganil"
+			},
+			{
+				"id": "106",
+				"nome": "Praia Fluvial de Malhada Chã – Arganil"
+			},
+			{
+				"id": "107",
+				"nome": "Praia Fluvial de Folques – Arganil"
+			},
+			{
+				"id": "108",
+				"nome": "Praia Fluvial do Agroal – Arganil"
+			},
+			{
+				"id": "109",
+				"nome": "Praia Fluvial Senhora da Piedade – Lousã"
+			},
+			{
+				"id": "110",
+				"nome": "Praia Fluvial Bogueira – Lousã"
+			},
+			{
+				"id": "111",
+				"nome": "Praia Fluvial Avô – Oliveira do Hospital"
+			},
+			{
+				"id": "112",
+				"nome": "Praia Fluvial São Gião – Oliveira do Hospital"
+			},
+			{
+				"id": "113",
+				"nome": "Praia Fluvial Alvoco – Oliveira do Hospital"
+			},
+			{
+				"id": "114",
+				"nome": "Praia Fluvial Pessegueiro – Pampilhosa da Serra"
+			},
+			{
+				"id": "115",
+				"nome": "Praia Fluvial Santa Lúzia – Pampilhosa da Serra"
+			},
+			{
+				"id": "116",
+				"nome": "Praia Fluvial Janeiro de Baixo – Pampilhosa da Serra"
+			},
+			{
+				"id": "117",
+				"nome": "Praia Fluvial Pampilhosa da Serra – Pampilhosa da Serra"
+			},
+			{
+				"id": "118",
+				"nome": "Praia Fluvial Senhora da Graça – Lousã"
+			},
+			{
+				"id": "119",
+				"nome": "Praia Fluvial Segade – Miranda do Corvo"
+			},
+			{
+				"id": "120",
+				"nome": "Praia Fluvial Louçainha – Penela"
+			},
+			{
+				"id": "121",
+				"nome": "Praia Fluvial de Alvoco das Várzeas – Oliveira do Hospital"
+			},
+			{
+				"id": "122",
+				"nome": "Praia Fluvial de Avô – Oliveira do Hospital"
+			},
+			{
+				"id": "123",
+				"nome": "Praia Fluvial de São Gião – Oliveira do Hospital"
+			},
+			{
+				"id": "124",
+				"nome": "Praia Fluvial de Vimieiro – Penacova"
+			},
+			{
+				"id": "125",
+				"nome": "Praia Fluvial Cascata da Fraga da Pena – Arganil"
+			}
+		]
+	},
+	{
+		"id": "8",
+		"name": "Distrito de Castelo Branco",
+		"praias": [
+			{
+				"id": "126",
+				"nome": "Praia Fluvial Malhadal – Proença a Nova"
+			},
+			{
+				"id": "127",
+				"nome": "Praia Fluvial de Belmonte – Belmonte"
+			},
+			{
+				"id": "128",
+				"nome": "Praia fluvial Almaceda – Almaceda"
+			},
+			{
+				"id": "129",
+				"nome": "Praia fluvial Janeiro de Cima – Fundão"
+			},
+			{
+				"id": "130",
+				"nome": "Praia fluvial O Moinho – Benquerença"
+			},
+			{
+				"id": "131",
+				"nome": "Praia fluvial Ourondinho ou Praia da Mosca – Covilhã"
+			},
+			{
+				"id": "132",
+				"nome": "Praia fluvial Ourondo – Covilhã"
+			},
+			{
+				"id": "133",
+				"nome": "Praia fluvial Sesmo – Sesmo"
+			},
+			{
+				"id": "134",
+				"nome": "Praia Fluvial do Muro – Serrasqueira"
+			},
+			{
+				"id": "135",
+				"nome": "Praia fluvial Unhais da Serra – Covilhã"
+			},
+			{
+				"id": "136",
+				"nome": "Praia Fluvial Taberna Seca – Taberna Seca"
+			},
+			{
+				"id": "137",
+				"nome": "Praia Fluvial Barragem de Idanha – Idanha a Nova"
+			},
+			{
+				"id": "138",
+				"nome": "Praia Fluvial Pego – Idanha a Nova"
+			},
+			{
+				"id": "139",
+				"nome": "Praia Fluvial Ribeira Grande – Sertã"
+			},
+			{
+				"id": "140",
+				"nome": "Praia Fluvial Marmeleiro – Sertã"
+			},
+			{
+				"id": "141",
+				"nome": "Praia Fluvial Trizio – Sertã"
+			},
+			{
+				"id": "142",
+				"nome": "Praia Fluvial Álvaro – Oleiros"
+			},
+			{
+				"id": "143",
+				"nome": "Praia Fluvial Açude do Pinto – Oleiros"
+			},
+			{
+				"id": "144",
+				"nome": "Praia Fluvial de Ponte Cambas – Oleiros"
+			},
+			{
+				"id": "145",
+				"nome": "Praia Fluvial Aldeia Ruiva – Proença a Nova"
+			},
+			{
+				"id": "146",
+				"nome": "Praia Fluvial Fróia – Proença a Nova"
+			},
+			{
+				"id": "147",
+				"nome": "Praia Fluvial Alvito da Beira – Proença a Nova"
+			},
+			{
+				"id": "148",
+				"nome": "Praia Fluvial Cerejeira – Proença a Nova"
+			},
+			{
+				"id": "149",
+				"nome": "Praia Fluvial Penedo Furado – Vila de Rei"
+			},
+			{
+				"id": "150",
+				"nome": "Praia Fluvial Zaboeira – Vila de Rei"
+			},
+			{
+				"id": "151",
+				"nome": "Praia Fluvial Fernandaires – Vila de Rei"
+			},
+			{
+				"id": "152",
+				"nome": "Praia Fluvial Bostelim – Vila de Rei"
+			},
+			{
+				"id": "153",
+				"nome": "Praia Fluvial Pego das Cancelas – Vila de Rei"
+			},
+			{
+				"id": "154",
+				"nome": "Praia Fluvial Albufeira de Meimôa – Penamacor"
+			},
+			{
+				"id": "155",
+				"nome": "Praia Fluvial o Moinho – Penamacor"
+			},
+			{
+				"id": "156",
+				"nome": "Praia Fluvial Troviscal – Sertã"
+			},
+			{
+				"id": "157",
+				"nome": "Praia Fluvial de Lavacolhos – Fundão"
+			},
+			{
+				"id": "158",
+				"nome": "Praia Fluvial da Meimão – Penamacor"
+			}
+		]
+	},
+	{
+		"id": "9",
+		"name": "Distrito da Guarda",
+		"praias": [
+			{
+				"id": "159",
+				"nome": "Praia fluvial Valhelhas – Guarda"
+			},
+			{
+				"id": "160",
+				"nome": "Praia Fluvial de Aldeia Viçosa – Aldeia Viçosa"
+			},
+			{
+				"id": "161",
+				"nome": "Praia fluvial Foios – Sabugal"
+			},
+			{
+				"id": "162",
+				"nome": "Praia fluvial Rapoula do Côa – Sabugal"
+			},
+			{
+				"id": "163",
+				"nome": "Praia fluvial Sabugal – Sabugal"
+			},
+			{
+				"id": "164",
+				"nome": "Praia fluvial Vale das Éguas – Sabugal"
+			},
+			{
+				"id": "165",
+				"nome": "Praia Fluvial de Devesa – Sabugal"
+			},
+			{
+				"id": "166",
+				"nome": "Praia Fluvial Ínsua — Vale das Éguas – Sabugal"
+			},
+			{
+				"id": "167",
+				"nome": "Praia Fluvial Lameira — Quadrazais – Sabugal"
+			},
+			{
+				"id": "168",
+				"nome": "Praia Fluvial Sabugal – Sabugal"
+			},
+			{
+				"id": "169",
+				"nome": "Praia Fluvial Quadrazais – Sabugal"
+			},
+			{
+				"id": "170",
+				"nome": "Praia Fluvial Vale do Rossim – Gouveia"
+			},
+			{
+				"id": "171",
+				"nome": "Praia Fluvial Lapa dos Dinheiros – Seia"
+			},
+			{
+				"id": "172",
+				"nome": "Praia Fluvial do Sabugueiro – Seia"
+			},
+			{
+				"id": "173",
+				"nome": "Praia Fluvial Loriga – Seia"
+			},
+			{
+				"id": "174",
+				"nome": "Praia Fluvial Sandomil – Seia"
+			},
+			{
+				"id": "175",
+				"nome": "Praia Fluvia Vila Cova à Coelheira – Seia"
+			},
+			{
+				"id": "176",
+				"nome": "Praia Fluvial Poço do Lagar – Seia"
+			},
+			{
+				"id": "177",
+				"nome": "Praia Fluvial Covão d’Ametade – Manteigas"
+			},
+			{
+				"id": "178",
+				"nome": "Praia Fluvial Covão da Ponte – Manteigas"
+			},
+			{
+				"id": "179",
+				"nome": "Praia Fluvial da Relva da Reboleira – Sameiro – Manteigas"
+			},
+			{
+				"id": "180",
+				"nome": "Praia Fluvial Vale do Mondego – Vila Cortês do Mondego"
+			}
+		]
+	},
+	{
+		"id": "10",
+		"name": "Distrito de Leiria",
+		"praias": [
+			{
+				"id": "181",
+				"nome": "Praia Fluvial das Rocas – Castanheira de Pêra"
+			},
+			{
+				"id": "182",
+				"nome": "Praia Fluvial do Poço da Corga – Castanheira de Pêra"
+			},
+			{
+				"id": "183",
+				"nome": "Praia Fluvial Aldeia Ana de Aviz – Figueiró dos Vinhos"
+			},
+			{
+				"id": "184",
+				"nome": "Praia Fluvial Fragas de São Simão – Figueiró dos Vinhos"
+			},
+			{
+				"id": "185",
+				"nome": "Praia Fluvial de Mosteiro – Pedrogão Grande"
+			},
+			{
+				"id": "186",
+				"nome": "Praia Fluvial Cabril – Pedrogão Grande"
+			},
+			{
+				"id": "187",
+				"nome": "Praia Fluvial Mega – Pedrogão Grande"
+			},
+			{
+				"id": "188",
+				"nome": "Praia FLuvial de Alpedriz – Parque de Lazer Nascente das Loureiras – Alcobaça"
+			}
+		]
+	},
+	{
+		"id": "11",
+		"name": "Distrito de Lisboa",
+		"praias": [
+			{
+				"id": "189",
+				"nome": "Praia Fluvial da Ribeira das Naus – Lisboa"
+			},
+			{
+				"id": "190",
+				"nome": "Praia Fluvial da Aldeia Branca – Azambuja"
+			},
+			{
+				"id": "191",
+				"nome": "Praia do Torel – Lisboa (Só em agosto)"
+			},
+			{
+				"id": "192",
+				"nome": "Praia Fluvial Foz Lizandro (Rio) – Mafra"
+			}
+		]
+	},
+	{
+		"id": "12",
+		"name": "Distrito de Portalegre",
+		"praias": [
+			{
+				"id": "193",
+				"nome": "Praia Fluvial da Ribeira da Venda – Comenda, Gavião"
+			},
+			{
+				"id": "194",
+				"nome": "Praia da Barragem de Montargil – Montargil"
+			},
+			{
+				"id": "195",
+				"nome": "Praia Fluvial da Ponte – Fronteira"
+			},
+			{
+				"id": "196",
+				"nome": "Praia Fluvial do Rio Sever, Portagem – Marvão"
+			},
+			{
+				"id": "197",
+				"nome": "Praia Fluvial Quinta do Alamal – Gavião"
+			},
+			{
+				"id": "198",
+				"nome": "Praia Fluvial de Avis na Barragem do Maranhão – Avis"
+			}
+		]
+	},
+	{
+		"id": "13",
+		"name": "Distrito de Santarém",
+		"praias": [
+			{
+				"id": "199",
+				"nome": "Praia Fluvial dos Olhos d` Água – Alcanena"
+			},
+			{
+				"id": "200",
+				"nome": "Praia Praia Fluvial da Ortiga ou Praia da Foz da Ribeira de Eiras– Mação"
+			},
+			{
+				"id": "201",
+				"nome": "Praia Fluvial do Carvoeiro – Mação"
+			},
+			{
+				"id": "202",
+				"nome": "Praia Fluvial de Cardigos – Mação"
+			},
+			{
+				"id": "203",
+				"nome": "Praia Fluvial Aldeia do Mato – Abrantes"
+			},
+			{
+				"id": "204",
+				"nome": "Praia Fluvial Colinas do Tejo – Cascalhos, Mouriscas, Abrantes"
+			},
+			{
+				"id": "205",
+				"nome": "Praia Fluvial Castanheira ou Lago Azul – Ferreira do Zezêre"
+			},
+			{
+				"id": "206",
+				"nome": "Praia Fluvial Vila Nova- Serra – Tomar"
+			},
+			{
+				"id": "207",
+				"nome": "Praia Fluvial Montes – Tomar"
+			},
+			{
+				"id": "208",
+				"nome": "Praia Fluvial Alverangel – Tomar"
+			},
+			{
+				"id": "209",
+				"nome": "Praia Fluvial Agroal – Ourém"
+			},
+			{
+				"id": "210",
+				"nome": "Praia Fluvial de Valada – Cartaxo"
+			},
+			{
+				"id": "211",
+				"nome": "Praia Doce – Salvaterra de Magos"
+			},
+			{
+				"id": "212",
+				"nome": "Praia Fluvial do Sorraia – Coruche"
+			},
+			{
+				"id": "214",
+				"nome": "Praia Fluvial do Patacão – Alpiarça"
+			},
+			{
+				"id": "215",
+				"nome": "Praia Fluvial do Couço – Coruche"
+			}
+		]
+	},
+	{
+		"id": "14",
+		"name": "Distrito de Beja",
+		"praias": [
+			{
+				"id": "216",
+				"nome": "Praia Fluvial da Tapada Grande – Mina de São Domingos"
+			},
+			{
+				"id": "217",
+				"nome": "Praia Fluvial das Azenhas Guadiana – Mértola"
+			},
+			{
+				"id": "218",
+				"nome": "Praia Fluvial da Albufeira de Odivelas – Ferreira do Alentejo"
+			},
+			{
+				"id": "219",
+				"nome": "Praia Fluvial de Albufeira de Santa Clara – Odemira"
+			}
+		]
+	},
+	{
+		"id": "15",
+		"name": "Distrito de Évora",
+		"praias": [
+			{
+				"id": "220",
+				"nome": "Praia Fluvial de Monsaraz – Reguengos de Monsaraz"
+			},
+			{
+				"id": "221",
+				"nome": "Praia Fluvial do Gameiro – Mora"
+			},
+			{
+				"id": "222",
+				"nome": "Praia Fluvial da Ponte do Paço – Mora"
+			}
+		]
+	},
+	{
+		"id": "16",
+		"name": "Distrito de Faro",
+		"praias": [
+			{
+				"id": "223",
+				"nome": "Praia fluvial de Pego Fundo – Alcoutim"
+			},
+			{
+				"id": "224",
+				"nome": "Praia Fluvial e Zona de Lazer da Barragem de Odeleite – Castro Marim"
+			},
+			{
+				"id": "225",
+				"nome": "Praia Fluvial da Amoreira (rio) — Aljezur"
+			},
+			{
+				"id": "226",
+				"nome": "Praia Fluvial de Odeceixe (rio) — Aljezur"
+			}
+		]
+	},
+	{
+		"id": "17",
+		"name": "Distrito de Setúbal",
+		"praias": [
+			{
+				"id": "227",
+				"nome": "Praia Fluvial dos Moinhos – Valbom, Alcochete"
+			},
+			{
+				"id": "228",
+				"nome": "Praia Fluvial do Samouco – Samouco, Alcochete"
+			},
+			{
+				"id": "229",
+				"nome": "Praia Fluvial do Rosário – Moita"
+			},
+			{
+				"id": "230",
+				"nome": "Praia Fluvial da Ponta dos Corvos – Seixal"
+			},
+			{
+				"id": "231",
+				"nome": "Praia Fluvial da Saúde – Setúbal"
+			},
+			{
+				"id": "232",
+				"nome": "Praia Fluvial da Alburrica – Barreiro"
+			},
+			{
+				"id": "233",
+				"nome": "Praia Fluvial do Clube Naval/Bico do Mexilhoeiro – Barreiro"
+			},
+			{
+				"id": "234",
+				"nome": "Praia Fluvial da Copacabana – Barreiro"
+			}
+		]
+	}
+]

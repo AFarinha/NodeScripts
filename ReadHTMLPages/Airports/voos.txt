@@ -1,0 +1,14 @@
+
+
+https://book.flytap.com/air/TAPPT/Select.aspx
+?origin=LIS
+&destination=OPO
+&depDate=14.03.2018
+&retDate=14.03.2018
+&flightType=Return
+&adt=1
+&chd=0
+&inf=1
+&_l=pt
+&market=PT
+&contract=TAPPT

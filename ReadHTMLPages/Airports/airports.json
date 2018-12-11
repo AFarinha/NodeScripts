@@ -1,0 +1,3194 @@
+[
+	{
+		"id": "0",
+		"name": "Europa",
+		"airports": [
+			{
+				"name": "(OPO) Porto - Porto, Portugal",
+				"code": "OPO",
+				"city": "Porto",
+				"country": "Porto, Portugal"
+			},
+			{
+				"name": "(SJZ) Açores - São Jorge, Açores, Portugal",
+				"code": "SJZ",
+				"city": "Açores",
+				"country": "São Jorge, Açores, Portugal"
+			},
+			{
+				"name": "(FLW) Açores - Ilha das Flores, Açores, Portugal",
+				"code": "FLW",
+				"city": "Açores",
+				"country": "Ilha das Flores, Açores, Portugal"
+			},
+			{
+				"name": "(CVU) Açores - Ilha do Corvo, Açores, Portugal",
+				"code": "CVU",
+				"city": "Açores",
+				"country": "Ilha do Corvo, Açores, Portugal"
+			},
+			{
+				"name": "(GRW) Açores - Ilha Graciosa, Açores, Portugal",
+				"code": "GRW",
+				"city": "Açores",
+				"country": "Ilha Graciosa, Açores, Portugal"
+			},
+			{
+				"name": "(PIX) Açores - Pico, Açores, Portugal",
+				"code": "PIX",
+				"city": "Açores",
+				"country": "Pico, Açores, Portugal"
+			},
+			{
+				"name": "(PDL) Açores - Ponta Delgada, Açores, Portugal",
+				"code": "PDL",
+				"city": "Açores",
+				"country": "Ponta Delgada, Açores, Portugal"
+			},
+			{
+				"name": "(PXO) Porto Santo - Porto Santo, Madeira, Portugal",
+				"code": "PXO",
+				"city": "Porto Santo",
+				"country": "Porto Santo, Madeira, Portugal"
+			},
+			{
+				"name": "(SMA) Açores - Santa Maria, Açores, Portugal",
+				"code": "SMA",
+				"city": "Açores",
+				"country": "Santa Maria, Açores, Portugal"
+			},
+			{
+				"name": "(FAO) Faro - Faro, Algarve, Portugal",
+				"code": "FAO",
+				"city": "Faro",
+				"country": "Faro, Algarve, Portugal"
+			},
+			{
+				"name": "(FNC) Funchal - Funchal, Madeira, Portugal",
+				"code": "FNC",
+				"city": "Funchal",
+				"country": "Funchal, Madeira, Portugal"
+			},
+			{
+				"name": "(TER) Lajes - Terceira, Açores, Portugal",
+				"code": "TER",
+				"city": "Lajes",
+				"country": "Terceira, Açores, Portugal"
+			},
+			{
+				"name": "(HOR) Açores - Horta, Açores, Portugal",
+				"code": "HOR",
+				"city": "Açores",
+				"country": "Horta, Açores, Portugal"
+			},
+			{
+				"name": "(LIS) Lisboa - Lisboa, Portugal",
+				"code": "LIS",
+				"city": "Lisboa",
+				"country": "Lisboa, Portugal"
+			},
+			{
+				"name": "(PSA) Pisa - Pisa, Itália",
+				"code": "PSA",
+				"city": "Pisa",
+				"country": "Pisa, Itália"
+			},
+			{
+				"name": "(TRN) Turim - Turim, Itália",
+				"code": "TRN",
+				"city": "Turim",
+				"country": "Turim, Itália"
+			},
+			{
+				"name": "(TRS) Trieste - Trieste, Itália",
+				"code": "TRS",
+				"city": "Trieste",
+				"country": "Trieste, Itália"
+			},
+			{
+				"name": "(MIL) Milão - Milão - todos os aeroportos, Itália",
+				"code": "MIL",
+				"city": "Milão - Milão",
+				"country": "todos os aeroportos, Itália"
+			},
+			{
+				"name": "(PMO) Palermo - Palermo, Itália",
+				"code": "PMO",
+				"city": "Palermo",
+				"country": "Palermo, Itália"
+			},
+			{
+				"name": "(NSY) Catânia - Catânia - Sigonella, Itália",
+				"code": "NSY",
+				"city": "Catânia - Catânia",
+				"country": "Sigonella, Itália"
+			},
+			{
+				"name": "(REG) Reggio Calabria - Reggio Calabria, Itália",
+				"code": "REG",
+				"city": "Reggio Calabria",
+				"country": "Reggio Calabria, Itália"
+			},
+			{
+				"name": "(OLB) Olbia - Olbia, Itália",
+				"code": "OLB",
+				"city": "Olbia",
+				"country": "Olbia, Itália"
+			},
+			{
+				"name": "(NAP) Nápoles - Nápoles, Itália",
+				"code": "NAP",
+				"city": "Nápoles",
+				"country": "Nápoles, Itália"
+			},
+			{
+				"name": "(VRN) Verona - Verona, Itália",
+				"code": "VRN",
+				"city": "Verona",
+				"country": "Verona, Itália"
+			},
+			{
+				"name": "(LIN) Milão - Milão - Linate, Itália",
+				"code": "LIN",
+				"city": "Milão - Milão",
+				"country": "Linate, Itália"
+			},
+			{
+				"name": "(SUF) Lamezia Terme - Lamezia Terme, Itália",
+				"code": "SUF",
+				"city": "Lamezia Terme",
+				"country": "Lamezia Terme, Itália"
+			},
+			{
+				"name": "(GOA) Génova - Génova, Itália",
+				"code": "GOA",
+				"city": "Génova",
+				"country": "Génova, Itália"
+			},
+			{
+				"name": "(CAG) Cagliari - Cagliari, Itália",
+				"code": "CAG",
+				"city": "Cagliari",
+				"country": "Cagliari, Itália"
+			},
+			{
+				"name": "(BRI) Bari - Bari, Itália",
+				"code": "BRI",
+				"city": "Bari",
+				"country": "Bari, Itália"
+			},
+			{
+				"name": "(CTA) Catânia - Catânia - Fontanarossa, Itália",
+				"code": "CTA",
+				"city": "Catânia - Catânia",
+				"country": "Fontanarossa, Itália"
+			},
+			{
+				"name": "(AOI) Ancona - Ancona, Itália",
+				"code": "AOI",
+				"city": "Ancona",
+				"country": "Ancona, Itália"
+			},
+			{
+				"name": "(AHO) Alghero - Alghero, Itália",
+				"code": "AHO",
+				"city": "Alghero",
+				"country": "Alghero, Itália"
+			},
+			{
+				"name": "(BDS) Brindisi - Brindisi, Itália",
+				"code": "BDS",
+				"city": "Brindisi",
+				"country": "Brindisi, Itália"
+			},
+			{
+				"name": "(FCO) Roma - Roma, Itália",
+				"code": "FCO",
+				"city": "Roma",
+				"country": "Roma, Itália"
+			},
+			{
+				"name": "(VCE) Veneza - Veneza, Itália",
+				"code": "VCE",
+				"city": "Veneza",
+				"country": "Veneza, Itália"
+			},
+			{
+				"name": "(BLQ) Bolonha - Bolonha, Itália",
+				"code": "BLQ",
+				"city": "Bolonha",
+				"country": "Bolonha, Itália"
+			},
+			{
+				"name": "(FLR) Florença - Florença, Itália",
+				"code": "FLR",
+				"city": "Florença",
+				"country": "Florença, Itália"
+			},
+			{
+				"name": "(MXP) Milão - Milão, Itália",
+				"code": "MXP",
+				"city": "Milão",
+				"country": "Milão, Itália"
+			},
+			{
+				"name": "(TRD) Trondheim - Trondheim, Noruega",
+				"code": "TRD",
+				"city": "Trondheim",
+				"country": "Trondheim, Noruega"
+			},
+			{
+				"name": "(MOL) Molde - Molde, Noruega",
+				"code": "MOL",
+				"city": "Molde",
+				"country": "Molde, Noruega"
+			},
+			{
+				"name": "(KKN) Kirkenes - Kirkenes, Noruega",
+				"code": "KKN",
+				"city": "Kirkenes",
+				"country": "Kirkenes, Noruega"
+			},
+			{
+				"name": "(AES) Alesund - Alesund, Noruega",
+				"code": "AES",
+				"city": "Alesund",
+				"country": "Alesund, Noruega"
+			},
+			{
+				"name": "(KRS) Kristiansand - Kristiansand, Noruega",
+				"code": "KRS",
+				"city": "Kristiansand",
+				"country": "Kristiansand, Noruega"
+			},
+			{
+				"name": "(SVG) Stavanger - Stavanger, Noruega",
+				"code": "SVG",
+				"city": "Stavanger",
+				"country": "Stavanger, Noruega"
+			},
+			{
+				"name": "(KSU) Kristiansund - Kristiansund, Noruega",
+				"code": "KSU",
+				"city": "Kristiansund",
+				"country": "Kristiansund, Noruega"
+			},
+			{
+				"name": "(BGO) Bergen - Bergen, Noruega",
+				"code": "BGO",
+				"city": "Bergen",
+				"country": "Bergen, Noruega"
+			},
+			{
+				"name": "(EVE) Harstad Narvik - Harstad Narvik, Noruega",
+				"code": "EVE",
+				"city": "Harstad Narvik",
+				"country": "Harstad Narvik, Noruega"
+			},
+			{
+				"name": "(HAU) Haugesund - Haugesund, Noruega",
+				"code": "HAU",
+				"city": "Haugesund",
+				"country": "Haugesund, Noruega"
+			},
+			{
+				"name": "(HOV) Orsta Volda - Orsta Volda, Noruega",
+				"code": "HOV",
+				"city": "Orsta Volda",
+				"country": "Orsta Volda, Noruega"
+			},
+			{
+				"name": "(BOO) Bodo - Bodo, Noruega",
+				"code": "BOO",
+				"city": "Bodo",
+				"country": "Bodo, Noruega"
+			},
+			{
+				"name": "(ALF) Alta - Alta, Noruega",
+				"code": "ALF",
+				"city": "Alta",
+				"country": "Alta, Noruega"
+			},
+			{
+				"name": "(OSL) Oslo - Oslo, Noruega",
+				"code": "OSL",
+				"city": "Oslo",
+				"country": "Oslo, Noruega"
+			},
+			{
+				"name": "(TSR) Timisoara - Timisoara, Roménia",
+				"code": "TSR",
+				"city": "Timisoara",
+				"country": "Timisoara, Roménia"
+			},
+			{
+				"name": "(OMR) Oradea - Oradea, Roménia",
+				"code": "OMR",
+				"city": "Oradea",
+				"country": "Oradea, Roménia"
+			},
+			{
+				"name": "(SBZ) Sibiu - Sibiu, Roménia",
+				"code": "SBZ",
+				"city": "Sibiu",
+				"country": "Sibiu, Roménia"
+			},
+			{
+				"name": "(SCV) Suceava - Suceava, Roménia",
+				"code": "SCV",
+				"city": "Suceava",
+				"country": "Suceava, Roménia"
+			},
+			{
+				"name": "(SUJ) Satu Mare - Satu Mare, Roménia",
+				"code": "SUJ",
+				"city": "Satu Mare",
+				"country": "Satu Mare, Roménia"
+			},
+			{
+				"name": "(BAY) Baia Mare - Baia Mare, Roménia",
+				"code": "BAY",
+				"city": "Baia Mare",
+				"country": "Baia Mare, Roménia"
+			},
+			{
+				"name": "(CLJ) Cluj - Cluj, Roménia",
+				"code": "CLJ",
+				"city": "Cluj",
+				"country": "Cluj, Roménia"
+			},
+			{
+				"name": "(IAS) Iasi - Iasi, Roménia",
+				"code": "IAS",
+				"city": "Iasi",
+				"country": "Iasi, Roménia"
+			},
+			{
+				"name": "(BUH) Bucareste - Bucareste - todos os aeroportos, Roménia",
+				"code": "BUH",
+				"city": "Bucareste - Bucareste",
+				"country": "todos os aeroportos, Roménia"
+			},
+			{
+				"name": "(BBU) Bucareste - Bucareste - Baneasa Airport, Roménia",
+				"code": "BBU",
+				"city": "Bucareste - Bucareste",
+				"country": "Baneasa Airport, Roménia"
+			},
+			{
+				"name": "(OTP) Bucareste - Bucareste, Roménia",
+				"code": "OTP",
+				"city": "Bucareste",
+				"country": "Bucareste, Roménia"
+			},
+			{
+				"name": "(UME) Umea - Umea, Suécia",
+				"code": "UME",
+				"city": "Umea",
+				"country": "Umea, Suécia"
+			},
+			{
+				"name": "(LPI) Linkoping - Linkoping, Suécia",
+				"code": "LPI",
+				"city": "Linkoping",
+				"country": "Linkoping, Suécia"
+			},
+			{
+				"name": "(LLA) Lulea - Lulea, Suécia",
+				"code": "LLA",
+				"city": "Lulea",
+				"country": "Lulea, Suécia"
+			},
+			{
+				"name": "(OSD) Ostersund - Ostersund, Suécia",
+				"code": "OSD",
+				"city": "Ostersund",
+				"country": "Ostersund, Suécia"
+			},
+			{
+				"name": "(RNB) Ronneby - Ronneby, Suécia",
+				"code": "RNB",
+				"city": "Ronneby",
+				"country": "Ronneby, Suécia"
+			},
+			{
+				"name": "(NRK) Norrkoping - Norrkoping, Suécia",
+				"code": "NRK",
+				"city": "Norrkoping",
+				"country": "Norrkoping, Suécia"
+			},
+			{
+				"name": "(SDL) Sundsvall - Sundsvall, Suécia",
+				"code": "SDL",
+				"city": "Sundsvall",
+				"country": "Sundsvall, Suécia"
+			},
+			{
+				"name": "(SFT) Skelleftea - Skelleftea, Suécia",
+				"code": "SFT",
+				"city": "Skelleftea",
+				"country": "Skelleftea, Suécia"
+			},
+			{
+				"name": "(KRN) Kiruna - Kiruna, Suécia",
+				"code": "KRN",
+				"city": "Kiruna",
+				"country": "Kiruna, Suécia"
+			},
+			{
+				"name": "(KLR) Kalmar - Kalmar, Suécia",
+				"code": "KLR",
+				"city": "Kalmar",
+				"country": "Kalmar, Suécia"
+			},
+			{
+				"name": "(GOT) Gotemburgo - Gotemburgo, Suécia",
+				"code": "GOT",
+				"city": "Gotemburgo",
+				"country": "Gotemburgo, Suécia"
+			},
+			{
+				"name": "(ARN) Estocolmo - Estocolmo, Suécia",
+				"code": "ARN",
+				"city": "Estocolmo",
+				"country": "Estocolmo, Suécia"
+			},
+			{
+				"name": "(VAA) Vaasa - Vaasa, Finlândia",
+				"code": "VAA",
+				"city": "Vaasa",
+				"country": "Vaasa, Finlândia"
+			},
+			{
+				"name": "(OUL) Oulu - Oulu, Finlândia",
+				"code": "OUL",
+				"city": "Oulu",
+				"country": "Oulu, Finlândia"
+			},
+			{
+				"name": "(RVN) Rovaniemi - Rovaniemi, Finlândia",
+				"code": "RVN",
+				"city": "Rovaniemi",
+				"country": "Rovaniemi, Finlândia"
+			},
+			{
+				"name": "(TMP) Tampere - Tampere, Finlândia",
+				"code": "TMP",
+				"city": "Tampere",
+				"country": "Tampere, Finlândia"
+			},
+			{
+				"name": "(TKU) Turku - Turku, Finlândia",
+				"code": "TKU",
+				"city": "Turku",
+				"country": "Turku, Finlândia"
+			},
+			{
+				"name": "(KUO) Kuopio - Kuopio, Finlândia",
+				"code": "KUO",
+				"city": "Kuopio",
+				"country": "Kuopio, Finlândia"
+			},
+			{
+				"name": "(KTT) Kittila - Kittila, Finlândia",
+				"code": "KTT",
+				"city": "Kittila",
+				"country": "Kittila, Finlândia"
+			},
+			{
+				"name": "(IVL) Ivalo - Ivalo, Finlândia",
+				"code": "IVL",
+				"city": "Ivalo",
+				"country": "Ivalo, Finlândia"
+			},
+			{
+				"name": "(KAO) Kuusamo - Kuusamo, Finlândia",
+				"code": "KAO",
+				"city": "Kuusamo",
+				"country": "Kuusamo, Finlândia"
+			},
+			{
+				"name": "(JYV) Jyvaskyla - Jyvaskyla, Finlândia",
+				"code": "JYV",
+				"city": "Jyvaskyla",
+				"country": "Jyvaskyla, Finlândia"
+			},
+			{
+				"name": "(JOE) Joensuu - Joensuu, Finlândia",
+				"code": "JOE",
+				"city": "Joensuu",
+				"country": "Joensuu, Finlândia"
+			},
+			{
+				"name": "(HEL) Helsínquia - Helsínquia, Finlândia",
+				"code": "HEL",
+				"city": "Helsínquia",
+				"country": "Helsínquia, Finlândia"
+			},
+			{
+				"name": "(UFA) Ufa - Ufa, Federação Russa",
+				"code": "UFA",
+				"city": "Ufa",
+				"country": "Ufa, Federação Russa"
+			},
+			{
+				"name": "(OVB) Novosibirsk - Novosibirsk, Federação Russa",
+				"code": "OVB",
+				"city": "Novosibirsk",
+				"country": "Novosibirsk, Federação Russa"
+			},
+			{
+				"name": "(PEE) Perm - Perm, Federação Russa",
+				"code": "PEE",
+				"city": "Perm",
+				"country": "Perm, Federação Russa"
+			},
+			{
+				"name": "(ROV) Rostov - Rostov, Federação Russa",
+				"code": "ROV",
+				"city": "Rostov",
+				"country": "Rostov, Federação Russa"
+			},
+			{
+				"name": "(LED) São Petersburgo - São Petersburgo, Federação Russa",
+				"code": "LED",
+				"city": "São Petersburgo",
+				"country": "São Petersburgo, Federação Russa"
+			},
+			{
+				"name": "(KRR) Krasnodar - Krasnodar, Federação Russa",
+				"code": "KRR",
+				"city": "Krasnodar",
+				"country": "Krasnodar, Federação Russa"
+			},
+			{
+				"name": "(SVX) Ekaterinburg - Ekaterinburg, Federação Russa",
+				"code": "SVX",
+				"city": "Ekaterinburg",
+				"country": "Ekaterinburg, Federação Russa"
+			},
+			{
+				"name": "(KUF) Samara - Samara, Federação Russa",
+				"code": "KUF",
+				"city": "Samara",
+				"country": "Samara, Federação Russa"
+			},
+			{
+				"name": "(KZN) Kazan - Kazan, Federação Russa",
+				"code": "KZN",
+				"city": "Kazan",
+				"country": "Kazan, Federação Russa"
+			},
+			{
+				"name": "(AER) Sochi - Adler Sochi, Federação Russa",
+				"code": "AER",
+				"city": "Sochi",
+				"country": "Adler Sochi, Federação Russa"
+			},
+			{
+				"name": "(GOJ) Nizhniy Novgorod - Nizhniy Novgorod, Federação Russa",
+				"code": "GOJ",
+				"city": "Nizhniy Novgorod",
+				"country": "Nizhniy Novgorod, Federação Russa"
+			},
+			{
+				"name": "(DME) Moscovo - Moscovo - Domodedovo, Federação Russa",
+				"code": "DME",
+				"city": "Moscovo - Moscovo",
+				"country": "Domodedovo, Federação Russa"
+			},
+			{
+				"name": "(POZ) Poznan - Poznan, Polónia",
+				"code": "POZ",
+				"city": "Poznan",
+				"country": "Poznan, Polónia"
+			},
+			{
+				"name": "(RZE) Rzeszow - Rzeszow, Polónia",
+				"code": "RZE",
+				"city": "Rzeszow",
+				"country": "Rzeszow, Polónia"
+			},
+			{
+				"name": "(WRO) Wroclaw - Wroclaw, Polónia",
+				"code": "WRO",
+				"city": "Wroclaw",
+				"country": "Wroclaw, Polónia"
+			},
+			{
+				"name": "(SZZ) Szczecin - Szczecin, Polónia",
+				"code": "SZZ",
+				"city": "Szczecin",
+				"country": "Szczecin, Polónia"
+			},
+			{
+				"name": "(KRK) Cracóvia - Cracóvia, Polónia",
+				"code": "KRK",
+				"city": "Cracóvia",
+				"country": "Cracóvia, Polónia"
+			},
+			{
+				"name": "(KTW) Katowice - Katowice, Polónia",
+				"code": "KTW",
+				"city": "Katowice",
+				"country": "Katowice, Polónia"
+			},
+			{
+				"name": "(BZG) Bydgoszcz - Bydgoszcz, Polónia",
+				"code": "BZG",
+				"city": "Bydgoszcz",
+				"country": "Bydgoszcz, Polónia"
+			},
+			{
+				"name": "(GDN) Gdansk - Gdansk, Polónia",
+				"code": "GDN",
+				"city": "Gdansk",
+				"country": "Gdansk, Polónia"
+			},
+			{
+				"name": "(WAW) Varsóvia - Varsóvia, Polónia",
+				"code": "WAW",
+				"city": "Varsóvia",
+				"country": "Varsóvia, Polónia"
+			},
+			{
+				"name": "(MLA) Malta - Malta, Malta",
+				"code": "MLA",
+				"city": "Malta",
+				"country": "Malta, Malta"
+			},
+			{
+				"name": "(PMI) Palma de Maiorca - Palma de Maiorca, Espanha",
+				"code": "PMI",
+				"city": "Palma de Maiorca",
+				"country": "Palma de Maiorca, Espanha"
+			},
+			{
+				"name": "(MAH) Menorca - Menorca, Espanha",
+				"code": "MAH",
+				"city": "Menorca",
+				"country": "Menorca, Espanha"
+			},
+			{
+				"name": "(TFN) Tenerife - Tenerife, Espanha",
+				"code": "TFN",
+				"city": "Tenerife",
+				"country": "Tenerife, Espanha"
+			},
+			{
+				"name": "(ACE) Lanzarote - Lanzarote, Espanha",
+				"code": "ACE",
+				"city": "Lanzarote",
+				"country": "Lanzarote, Espanha"
+			},
+			{
+				"name": "(IBZ) Ibiza - Ibiza, Espanha",
+				"code": "IBZ",
+				"city": "Ibiza",
+				"country": "Ibiza, Espanha"
+			},
+			{
+				"name": "(FUE) Forteventura - Forteventura, Espanha",
+				"code": "FUE",
+				"city": "Forteventura",
+				"country": "Forteventura, Espanha"
+			},
+			{
+				"name": "(OVD) Oviedo - Oviedo - Astúrias, Espanha",
+				"code": "OVD",
+				"city": "Oviedo - Oviedo",
+				"country": "Astúrias, Espanha"
+			},
+			{
+				"name": "(VGO) Vigo - Vigo, Espanha",
+				"code": "VGO",
+				"city": "Vigo",
+				"country": "Vigo, Espanha"
+			},
+			{
+				"name": "(AGP) Málaga - Málaga, Espanha",
+				"code": "AGP",
+				"city": "Málaga",
+				"country": "Málaga, Espanha"
+			},
+			{
+				"name": "(BIO) Bilbau - Bilbau, Espanha",
+				"code": "BIO",
+				"city": "Bilbau",
+				"country": "Bilbau, Espanha"
+			},
+			{
+				"name": "(BCN) Barcelona - Barcelona, Espanha",
+				"code": "BCN",
+				"city": "Barcelona",
+				"country": "Barcelona, Espanha"
+			},
+			{
+				"name": "(LCG) La Coruna - A Coruña, Espanha",
+				"code": "LCG",
+				"city": "La Coruna",
+				"country": "A Coruña, Espanha"
+			},
+			{
+				"name": "(LPA) Las Palmas - Gran Canaria, Espanha",
+				"code": "LPA",
+				"city": "Las Palmas",
+				"country": "Gran Canaria, Espanha"
+			},
+			{
+				"name": "(SVQ) Sevilha - Sevilha, Espanha",
+				"code": "SVQ",
+				"city": "Sevilha",
+				"country": "Sevilha, Espanha"
+			},
+			{
+				"name": "(VLC) Valência - Valência, Espanha",
+				"code": "VLC",
+				"city": "Valência",
+				"country": "Valência, Espanha"
+			},
+			{
+				"name": "(OSR) Ostrava - Ostrava, República Checa",
+				"code": "OSR",
+				"city": "Ostrava",
+				"country": "Ostrava, República Checa"
+			},
+			{
+				"name": "(PRG) Praga - Praga, República Checa",
+				"code": "PRG",
+				"city": "Praga",
+				"country": "Praga, República Checa"
+			},
+			{
+				"name": "(LUG) Lugano - Lugano, Suíça",
+				"code": "LUG",
+				"city": "Lugano",
+				"country": "Lugano, Suíça"
+			},
+			{
+				"name": "(BSL) Basileia - Basileia, Suíça",
+				"code": "BSL",
+				"city": "Basileia",
+				"country": "Basileia, Suíça"
+			},
+			{
+				"name": "(ZRH) Zurique - Zurique, Suíça",
+				"code": "ZRH",
+				"city": "Zurique",
+				"country": "Zurique, Suíça"
+			},
+			{
+				"name": "(GVA) Genebra - Genebra, Suíça",
+				"code": "GVA",
+				"city": "Genebra",
+				"country": "Genebra, Suíça"
+			},
+			{
+				"name": "(ZAD) Zadar - Zadar, Croácia",
+				"code": "ZAD",
+				"city": "Zadar",
+				"country": "Zadar, Croácia"
+			},
+			{
+				"name": "(ZAG) Zagreb - Zagreb, Croácia",
+				"code": "ZAG",
+				"city": "Zagreb",
+				"country": "Zagreb, Croácia"
+			},
+			{
+				"name": "(SPU) Split - Split, Croácia",
+				"code": "SPU",
+				"city": "Split",
+				"country": "Split, Croácia"
+			},
+			{
+				"name": "(DBV) Dubrovnik - Dubrovnik, Croácia",
+				"code": "DBV",
+				"city": "Dubrovnik",
+				"country": "Dubrovnik, Croácia"
+			},
+			{
+				"name": "(LNZ) Linz - Linz, Áustria",
+				"code": "LNZ",
+				"city": "Linz",
+				"country": "Linz, Áustria"
+			},
+			{
+				"name": "(SZG) Salzburg - Salzburg, Áustria",
+				"code": "SZG",
+				"city": "Salzburg",
+				"country": "Salzburg, Áustria"
+			},
+			{
+				"name": "(KLU) Klagenfurt - Klagenfurt, Áustria",
+				"code": "KLU",
+				"city": "Klagenfurt",
+				"country": "Klagenfurt, Áustria"
+			},
+			{
+				"name": "(INN) Innsbruck - Innsbruck, Áustria",
+				"code": "INN",
+				"city": "Innsbruck",
+				"country": "Innsbruck, Áustria"
+			},
+			{
+				"name": "(GRZ) Graz - Graz, Áustria",
+				"code": "GRZ",
+				"city": "Graz",
+				"country": "Graz, Áustria"
+			},
+			{
+				"name": "(VIE) Viena - Viena, Áustria",
+				"code": "VIE",
+				"city": "Viena",
+				"country": "Viena, Áustria"
+			},
+			{
+				"name": "(PAD) Paderborn - Paderborn, Alemanha",
+				"code": "PAD",
+				"city": "Paderborn",
+				"country": "Paderborn, Alemanha"
+			},
+			{
+				"name": "(NUE) Nuremberga - Nuremberga, Alemanha",
+				"code": "NUE",
+				"city": "Nuremberga",
+				"country": "Nuremberga, Alemanha"
+			},
+			{
+				"name": "(LEJ) Leipzig/Halle - Leipzig/Halle, Alemanha",
+				"code": "LEJ",
+				"city": "Leipzig/Halle",
+				"country": "Leipzig/Halle, Alemanha"
+			},
+			{
+				"name": "(SXF) Berlim - Berlim - Schoenefeld, Alemanha",
+				"code": "SXF",
+				"city": "Berlim - Berlim",
+				"country": "Schoenefeld, Alemanha"
+			},
+			{
+				"name": "(FDH) Friedrichshafen - Friedrichshafen, Alemanha",
+				"code": "FDH",
+				"city": "Friedrichshafen",
+				"country": "Friedrichshafen, Alemanha"
+			},
+			{
+				"name": "(HAJ) Hanôver - Hanôver, Alemanha",
+				"code": "HAJ",
+				"city": "Hanôver",
+				"country": "Hanôver, Alemanha"
+			},
+			{
+				"name": "(BRE) Bremen - Bremen, Alemanha",
+				"code": "BRE",
+				"city": "Bremen",
+				"country": "Bremen, Alemanha"
+			},
+			{
+				"name": "(BER) Berlim - Berlim - Brandenburg, Alemanha",
+				"code": "BER",
+				"city": "Berlim - Berlim",
+				"country": "Brandenburg, Alemanha"
+			},
+			{
+				"name": "(FMO) Munster - Munster/Osnabruck, Alemanha",
+				"code": "FMO",
+				"city": "Munster",
+				"country": "Munster/Osnabruck, Alemanha"
+			},
+			{
+				"name": "(DRS) Dresden - Dresden, Alemanha",
+				"code": "DRS",
+				"city": "Dresden",
+				"country": "Dresden, Alemanha"
+			},
+			{
+				"name": "(STR) Estugarda - Estugarda, Alemanha",
+				"code": "STR",
+				"city": "Estugarda",
+				"country": "Estugarda, Alemanha"
+			},
+			{
+				"name": "(FRA) Frankfurt - Frankfurt, Alemanha",
+				"code": "FRA",
+				"city": "Frankfurt",
+				"country": "Frankfurt, Alemanha"
+			},
+			{
+				"name": "(DUS) Dusseldorf - Dusseldorf, Alemanha",
+				"code": "DUS",
+				"city": "Dusseldorf",
+				"country": "Dusseldorf, Alemanha"
+			},
+			{
+				"name": "(CGN) Colónia - Colónia, Alemanha",
+				"code": "CGN",
+				"city": "Colónia",
+				"country": "Colónia, Alemanha"
+			},
+			{
+				"name": "(HAM) Hamburgo - Hamburgo, Alemanha",
+				"code": "HAM",
+				"city": "Hamburgo",
+				"country": "Hamburgo, Alemanha"
+			},
+			{
+				"name": "(MUC) Munique - Munique, Alemanha",
+				"code": "MUC",
+				"city": "Munique",
+				"country": "Munique, Alemanha"
+			},
+			{
+				"name": "(TXL) Berlim - Berlim, Alemanha",
+				"code": "TXL",
+				"city": "Berlim",
+				"country": "Berlim, Alemanha"
+			},
+			{
+				"name": "(NWI) Norwich - Norwich, Reino Unido",
+				"code": "NWI",
+				"city": "Norwich",
+				"country": "Norwich, Reino Unido"
+			},
+			{
+				"name": "(NQY) Newquay - Newquay, Reino Unido",
+				"code": "NQY",
+				"city": "Newquay",
+				"country": "Newquay, Reino Unido"
+			},
+			{
+				"name": "(NCL) Newcastle - Newcastle, Reino Unido",
+				"code": "NCL",
+				"city": "Newcastle",
+				"country": "Newcastle, Reino Unido"
+			},
+			{
+				"name": "(SOU) Southampton - Southampton, Reino Unido",
+				"code": "SOU",
+				"city": "Southampton",
+				"country": "Southampton, Reino Unido"
+			},
+			{
+				"name": "(ABZ) Aberdeen - Aberdeen, Reino Unido",
+				"code": "ABZ",
+				"city": "Aberdeen",
+				"country": "Aberdeen, Reino Unido"
+			},
+			{
+				"name": "(BHD) Belfast - Belfast, Reino Unido",
+				"code": "BHD",
+				"city": "Belfast",
+				"country": "Belfast, Reino Unido"
+			},
+			{
+				"name": "(EXT) Exeter - Exeter, Reino Unido",
+				"code": "EXT",
+				"city": "Exeter",
+				"country": "Exeter, Reino Unido"
+			},
+			{
+				"name": "(EDI) Edimburgo - Edimburgo, Reino Unido",
+				"code": "EDI",
+				"city": "Edimburgo",
+				"country": "Edimburgo, Reino Unido"
+			},
+			{
+				"name": "(JER) Jersey - Jersey, Reino Unido",
+				"code": "JER",
+				"city": "Jersey",
+				"country": "Jersey, Reino Unido"
+			},
+			{
+				"name": "(GLA) Glasgow - Glasgow, Reino Unido",
+				"code": "GLA",
+				"city": "Glasgow",
+				"country": "Glasgow, Reino Unido"
+			},
+			{
+				"name": "(IOM) Isle Of Man - Isle Of Man, Reino Unido",
+				"code": "IOM",
+				"city": "Isle Of Man",
+				"country": "Isle Of Man, Reino Unido"
+			},
+			{
+				"name": "(INV) Inverness - Inverness, Reino Unido",
+				"code": "INV",
+				"city": "Inverness",
+				"country": "Inverness, Reino Unido"
+			},
+			{
+				"name": "(BRS) Bristol - Bristol, Reino Unido",
+				"code": "BRS",
+				"city": "Bristol",
+				"country": "Bristol, Reino Unido"
+			},
+			{
+				"name": "(LCY) Londres - Londres - London City, Reino Unido",
+				"code": "LCY",
+				"city": "Londres - Londres",
+				"country": "London City, Reino Unido"
+			},
+			{
+				"name": "(LGW) Londres - Londres - Gatwick, Reino Unido",
+				"code": "LGW",
+				"city": "Londres - Londres",
+				"country": "Gatwick, Reino Unido"
+			},
+			{
+				"name": "(LHR) Londres - Londres - Heathrow, Reino Unido",
+				"code": "LHR",
+				"city": "Londres - Londres",
+				"country": "Heathrow, Reino Unido"
+			},
+			{
+				"name": "(LON) Londres - Londres - todos os aeroportos, Reino Unido",
+				"code": "LON",
+				"city": "Londres - Londres",
+				"country": "todos os aeroportos, Reino Unido"
+			},
+			{
+				"name": "(MAN) Manchester - Manchester, Reino Unido",
+				"code": "MAN",
+				"city": "Manchester",
+				"country": "Manchester, Reino Unido"
+			},
+			{
+				"name": "(RIX) Riga - Riga, Letónia",
+				"code": "RIX",
+				"city": "Riga",
+				"country": "Riga, Letónia"
+			},
+			{
+				"name": "(RHO) Rhodes - Rhodes, Grécia",
+				"code": "RHO",
+				"city": "Rhodes",
+				"country": "Rhodes, Grécia"
+			},
+			{
+				"name": "(SKG) Salónica - Salónica, Grécia",
+				"code": "SKG",
+				"city": "Salónica",
+				"country": "Salónica, Grécia"
+			},
+			{
+				"name": "(ATH) Atenas - Atenas, Grécia",
+				"code": "ATH",
+				"city": "Atenas",
+				"country": "Atenas, Grécia"
+			},
+			{
+				"name": "(CFU) Kerkyra - Kerkyra, Grécia",
+				"code": "CFU",
+				"city": "Kerkyra",
+				"country": "Kerkyra, Grécia"
+			},
+			{
+				"name": "(JMK) Mykonos - Mykonos, Grécia",
+				"code": "JMK",
+				"city": "Mykonos",
+				"country": "Mykonos, Grécia"
+			},
+			{
+				"name": "(JTR) Thira Island - Thira Island, Grécia",
+				"code": "JTR",
+				"city": "Thira Island",
+				"country": "Thira Island, Grécia"
+			},
+			{
+				"name": "(HER) Iráclio - Iráclio, Grécia",
+				"code": "HER",
+				"city": "Iráclio",
+				"country": "Iráclio, Grécia"
+			},
+			{
+				"name": "(CHQ) Chania - Chania, Grécia",
+				"code": "CHQ",
+				"city": "Chania",
+				"country": "Chania, Grécia"
+			},
+			{
+				"name": "(SJJ) Sarajevo - Sarajevo, Bósnia-Herzegovina",
+				"code": "SJJ",
+				"city": "Sarajevo - Sarajevo, Bósni",
+				"country": "Herzegovina"
+			},
+			{
+				"name": "(SKP) Skopje - Skopje, Macedónia",
+				"code": "SKP",
+				"city": "Skopje",
+				"country": "Skopje, Macedónia"
+			},
+			{
+				"name": "(SOF) Sófia - Sófia, Bulgária",
+				"code": "SOF",
+				"city": "Sófia",
+				"country": "Sófia, Bulgária"
+			},
+			{
+				"name": "(TIA) Tirana - Tirana, Albânia",
+				"code": "TIA",
+				"city": "Tirana",
+				"country": "Tirana, Albânia"
+			},
+			{
+				"name": "(TLL) Talin - Talin, Estónia",
+				"code": "TLL",
+				"city": "Talin",
+				"country": "Talin, Estónia"
+			},
+			{
+				"name": "(SXB) Estrasburgo - Estrasburgo, França",
+				"code": "SXB",
+				"city": "Estrasburgo",
+				"country": "Estrasburgo, França"
+			},
+			{
+				"name": "(BOD) Bordéus - Bordéus, França",
+				"code": "BOD",
+				"city": "Bordéus",
+				"country": "Bordéus, França"
+			},
+			{
+				"name": "(TLS) Toulouse - Toulouse, França",
+				"code": "TLS",
+				"city": "Toulouse",
+				"country": "Toulouse, França"
+			},
+			{
+				"name": "(LYS) Lyon - Lyon, França",
+				"code": "LYS",
+				"city": "Lyon",
+				"country": "Lyon, França"
+			},
+			{
+				"name": "(NTE) Nantes - Nantes, França",
+				"code": "NTE",
+				"city": "Nantes",
+				"country": "Nantes, França"
+			},
+			{
+				"name": "(ORY) Paris - Paris, França",
+				"code": "ORY",
+				"city": "Paris",
+				"country": "Paris, França"
+			},
+			{
+				"name": "(MRS) Marselha - Marselha, França",
+				"code": "MRS",
+				"city": "Marselha",
+				"country": "Marselha, França"
+			},
+			{
+				"name": "(NCE) Nice - Nice, França",
+				"code": "NCE",
+				"city": "Nice",
+				"country": "Nice, França"
+			},
+			{
+				"name": "(KIV) Chisinau - Chisinau, Moldávia",
+				"code": "KIV",
+				"city": "Chisinau",
+				"country": "Chisinau, Moldávia"
+			},
+			{
+				"name": "(KBP) Kiev - Kiev, Ucrânia",
+				"code": "KBP",
+				"city": "Kiev",
+				"country": "Kiev, Ucrânia"
+			},
+			{
+				"name": "(KSC) Kosice - Kosice, Eslováquia",
+				"code": "KSC",
+				"city": "Kosice",
+				"country": "Kosice, Eslováquia"
+			},
+			{
+				"name": "(BLL) Billund - Billund, Dinamarca",
+				"code": "BLL",
+				"city": "Billund",
+				"country": "Billund, Dinamarca"
+			},
+			{
+				"name": "(AAL) Aalborg - Aalborg, Dinamarca",
+				"code": "AAL",
+				"city": "Aalborg",
+				"country": "Aalborg, Dinamarca"
+			},
+			{
+				"name": "(AAR) Aarhus - Aarhus, Dinamarca",
+				"code": "AAR",
+				"city": "Aarhus",
+				"country": "Aarhus, Dinamarca"
+			},
+			{
+				"name": "(CPH) Copenhaga - Copenhaga, Dinamarca",
+				"code": "CPH",
+				"city": "Copenhaga",
+				"country": "Copenhaga, Dinamarca"
+			},
+			{
+				"name": "(DUB) Dublin - Dublin, Irlanda",
+				"code": "DUB",
+				"city": "Dublin",
+				"country": "Dublin, Irlanda"
+			},
+			{
+				"name": "(IST) Istambul - Istambul, Turquia",
+				"code": "IST",
+				"city": "Istambul",
+				"country": "Istambul, Turquia"
+			},
+			{
+				"name": "(LCA) Larnaca - Larnaca, Chipre",
+				"code": "LCA",
+				"city": "Larnaca",
+				"country": "Larnaca, Chipre"
+			},
+			{
+				"name": "(BEG) Belgrado - Belgrado, Sérvia",
+				"code": "BEG",
+				"city": "Belgrado",
+				"country": "Belgrado, Sérvia"
+			},
+			{
+				"name": "(AMS) Amesterdão - Amesterdão, Holanda",
+				"code": "AMS",
+				"city": "Amesterdão",
+				"country": "Amesterdão, Holanda"
+			},
+			{
+				"name": "(LUX) Luxemburgo - Luxemburgo, Luxemburgo",
+				"code": "LUX",
+				"city": "Luxemburgo",
+				"country": "Luxemburgo, Luxemburgo"
+			},
+			{
+				"name": "(BRU) Bruxelas - Bruxelas, Bélgica",
+				"code": "BRU",
+				"city": "Bruxelas",
+				"country": "Bruxelas, Bélgica"
+			},
+			{
+				"name": "(BUD) Budapeste - Budapeste, Hungria",
+				"code": "BUD",
+				"city": "Budapeste",
+				"country": "Budapeste, Hungria"
+			}
+		]
+	},
+	{
+		"id": "1",
+		"name": "América do Sul e Central",
+		"airports": [
+			{
+				"name": "(LPB) La Paz - La Paz, Bolívia",
+				"code": "LPB",
+				"city": "La Paz",
+				"country": "La Paz, Bolívia"
+			},
+			{
+				"name": "(VVI) Santa Cruz - Santa Cruz, Bolívia",
+				"code": "VVI",
+				"city": "Santa Cruz",
+				"country": "Santa Cruz, Bolívia"
+			},
+			{
+				"name": "(COR) Cordoba - Cordoba, Argentina",
+				"code": "COR",
+				"city": "Cordoba",
+				"country": "Cordoba, Argentina"
+			},
+			{
+				"name": "(EZE) Buenos Aires - Buenos Aires - Buenos Aires, Argentina",
+				"code": "EZE",
+				"city": "Buenos Aires - Buenos Aires",
+				"country": "Buenos Aires, Argentina"
+			},
+			{
+				"name": "(AEP) Buenos Aires - Buenos Aires - Jorge Newbery, Argentina",
+				"code": "AEP",
+				"city": "Buenos Aires - Buenos Aires",
+				"country": "Jorge Newbery, Argentina"
+			},
+			{
+				"name": "(BUE) Buenos Aires - Buenos Aires - todos os aeroportos, Argentina",
+				"code": "BUE",
+				"city": "Buenos Aires - Buenos Aires",
+				"country": "todos os aeroportos, Argentina"
+			},
+			{
+				"name": "(ROS) Rosario - Rosario, Argentina",
+				"code": "ROS",
+				"city": "Rosario",
+				"country": "Rosario, Argentina"
+			},
+			{
+				"name": "(CPV) Campina Grande - Campina Grande, Brasil",
+				"code": "CPV",
+				"city": "Campina Grande",
+				"country": "Campina Grande, Brasil"
+			},
+			{
+				"name": "(CWB) Curitiba - Curitiba, Brasil",
+				"code": "CWB",
+				"city": "Curitiba",
+				"country": "Curitiba, Brasil"
+			},
+			{
+				"name": "(CXJ) Caxias Do Sul - Caxias Do Sul, Brasil",
+				"code": "CXJ",
+				"city": "Caxias Do Sul",
+				"country": "Caxias Do Sul, Brasil"
+			},
+			{
+				"name": "(FEN) Fernando De Noronha - Fernando De Noronha, Brasil",
+				"code": "FEN",
+				"city": "Fernando De Noronha",
+				"country": "Fernando De Noronha, Brasil"
+			},
+			{
+				"name": "(FLN) Florianópolis - Florianópolis, Brasil",
+				"code": "FLN",
+				"city": "Florianópolis",
+				"country": "Florianópolis, Brasil"
+			},
+			{
+				"name": "(AJU) Aracaju - Aracaju, Brasil",
+				"code": "AJU",
+				"city": "Aracaju",
+				"country": "Aracaju, Brasil"
+			},
+			{
+				"name": "(ARU) Aracatuba - Aracatuba, Brasil",
+				"code": "ARU",
+				"city": "Aracatuba",
+				"country": "Aracatuba, Brasil"
+			},
+			{
+				"name": "(GVR) Governador Valadares - Governador Valadares, Brasil",
+				"code": "GVR",
+				"city": "Governador Valadares",
+				"country": "Governador Valadares, Brasil"
+			},
+			{
+				"name": "(ATM) Altamira - Altamira, Brasil",
+				"code": "ATM",
+				"city": "Altamira",
+				"country": "Altamira, Brasil"
+			},
+			{
+				"name": "(GYN) Goiânia - Goiânia, Brasil",
+				"code": "GYN",
+				"city": "Goiânia",
+				"country": "Goiânia, Brasil"
+			},
+			{
+				"name": "(IGU) Foz do Iguaçu - Foz do Iguaçu, Brasil",
+				"code": "IGU",
+				"city": "Foz do Iguaçu",
+				"country": "Foz do Iguaçu, Brasil"
+			},
+			{
+				"name": "(IMP) Imperatriz - Imperatriz, Brasil",
+				"code": "IMP",
+				"city": "Imperatriz",
+				"country": "Imperatriz, Brasil"
+			},
+			{
+				"name": "(IOS) Ilhéus - Ilhéus, Brasil",
+				"code": "IOS",
+				"city": "Ilhéus",
+				"country": "Ilhéus, Brasil"
+			},
+			{
+				"name": "(IPN) Ipatinga - Ipatinga, Brasil",
+				"code": "IPN",
+				"city": "Ipatinga",
+				"country": "Ipatinga, Brasil"
+			},
+			{
+				"name": "(BPS) Porto Seguro - Porto Seguro, Brasil",
+				"code": "BPS",
+				"city": "Porto Seguro",
+				"country": "Porto Seguro, Brasil"
+			},
+			{
+				"name": "(BRA) Barreiras - Barreiras, Brasil",
+				"code": "BRA",
+				"city": "Barreiras",
+				"country": "Barreiras, Brasil"
+			},
+			{
+				"name": "(JDO) Juazeiro Do Norte - Juazeiro Do Norte, Brasil",
+				"code": "JDO",
+				"city": "Juazeiro Do Norte",
+				"country": "Juazeiro Do Norte, Brasil"
+			},
+			{
+				"name": "(JOI) Joinville - Joinville, Brasil",
+				"code": "JOI",
+				"city": "Joinville",
+				"country": "Joinville, Brasil"
+			},
+			{
+				"name": "(JPA) João Pessoa - João Pessoa, Brasil",
+				"code": "JPA",
+				"city": "João Pessoa",
+				"country": "João Pessoa, Brasil"
+			},
+			{
+				"name": "(JPR) Ji Parana - Ji Parana, Brasil",
+				"code": "JPR",
+				"city": "Ji Parana",
+				"country": "Ji Parana, Brasil"
+			},
+			{
+				"name": "(BVB) Boa Vista - Boa Vista, Brasil",
+				"code": "BVB",
+				"city": "Boa Vista",
+				"country": "Boa Vista, Brasil"
+			},
+			{
+				"name": "(CAC) Cascavel - Cascavel, Brasil",
+				"code": "CAC",
+				"city": "Cascavel",
+				"country": "Cascavel, Brasil"
+			},
+			{
+				"name": "(LDB) Londrina - Londrina, Brasil",
+				"code": "LDB",
+				"city": "Londrina",
+				"country": "Londrina, Brasil"
+			},
+			{
+				"name": "(CAW) Campos - Campos, Brasil",
+				"code": "CAW",
+				"city": "Campos",
+				"country": "Campos, Brasil"
+			},
+			{
+				"name": "(CCM) Criciuma - Criciuma, Brasil",
+				"code": "CCM",
+				"city": "Criciuma",
+				"country": "Criciuma, Brasil"
+			},
+			{
+				"name": "(LEC) Lencois - Lencois, Brasil",
+				"code": "LEC",
+				"city": "Lencois",
+				"country": "Lencois, Brasil"
+			},
+			{
+				"name": "(CGB) Cuiabá - Cuiabá, Brasil",
+				"code": "CGB",
+				"city": "Cuiabá",
+				"country": "Cuiabá, Brasil"
+			},
+			{
+				"name": "(CGR) Campo Grande - Campo Grande, Brasil",
+				"code": "CGR",
+				"city": "Campo Grande",
+				"country": "Campo Grande, Brasil"
+			},
+			{
+				"name": "(CMG) Corumba - Corumba, Brasil",
+				"code": "CMG",
+				"city": "Corumba",
+				"country": "Corumba, Brasil"
+			},
+			{
+				"name": "(MAB) Maraba - Maraba, Brasil",
+				"code": "MAB",
+				"city": "Maraba",
+				"country": "Maraba, Brasil"
+			},
+			{
+				"name": "(MAO) Manaus - Manaus, Brasil",
+				"code": "MAO",
+				"city": "Manaus",
+				"country": "Manaus, Brasil"
+			},
+			{
+				"name": "(MCP) Macapa - Macapa, Brasil",
+				"code": "MCP",
+				"city": "Macapa",
+				"country": "Macapa, Brasil"
+			},
+			{
+				"name": "(MCZ) Maceió - Maceió, Brasil",
+				"code": "MCZ",
+				"city": "Maceió",
+				"country": "Maceió, Brasil"
+			},
+			{
+				"name": "(THE) Teresina - Teresina, Brasil",
+				"code": "THE",
+				"city": "Teresina",
+				"country": "Teresina, Brasil"
+			},
+			{
+				"name": "(PVH) Porto Velho - Porto Velho, Brasil",
+				"code": "PVH",
+				"city": "Porto Velho",
+				"country": "Porto Velho, Brasil"
+			},
+			{
+				"name": "(MGF) Maringá - Maringá, Brasil",
+				"code": "MGF",
+				"city": "Maringá",
+				"country": "Maringá, Brasil"
+			},
+			{
+				"name": "(MII) Marilia - Marilia, Brasil",
+				"code": "MII",
+				"city": "Marilia",
+				"country": "Marilia, Brasil"
+			},
+			{
+				"name": "(RAO) Ribeirao Preto - Ribeirao Preto, Brasil",
+				"code": "RAO",
+				"city": "Ribeirao Preto",
+				"country": "Ribeirao Preto, Brasil"
+			},
+			{
+				"name": "(UBA) Uberaba - Uberaba, Brasil",
+				"code": "UBA",
+				"city": "Uberaba",
+				"country": "Uberaba, Brasil"
+			},
+			{
+				"name": "(UDI) Uberlândia - Uberlândia, Brasil",
+				"code": "UDI",
+				"city": "Uberlândia",
+				"country": "Uberlândia, Brasil"
+			},
+			{
+				"name": "(RBR) Rio Branco - Rio Branco, Brasil",
+				"code": "RBR",
+				"city": "Rio Branco",
+				"country": "Rio Branco, Brasil"
+			},
+			{
+				"name": "(MOC) Montes Claros - Montes Claros, Brasil",
+				"code": "MOC",
+				"city": "Montes Claros",
+				"country": "Montes Claros, Brasil"
+			},
+			{
+				"name": "(VDC) Vitoria Da Conquista - Vitoria Da Conquista, Brasil",
+				"code": "VDC",
+				"city": "Vitoria Da Conquista",
+				"country": "Vitoria Da Conquista, Brasil"
+			},
+			{
+				"name": "(RIA) Santa Maria - Santa Maria, Brasil",
+				"code": "RIA",
+				"city": "Santa Maria",
+				"country": "Santa Maria, Brasil"
+			},
+			{
+				"name": "(VIX) Vitória - Vitória, Brasil",
+				"code": "VIX",
+				"city": "Vitória",
+				"country": "Vitória, Brasil"
+			},
+			{
+				"name": "(XAP) Chapeco - Chapeco, Brasil",
+				"code": "XAP",
+				"city": "Chapeco",
+				"country": "Chapeco, Brasil"
+			},
+			{
+				"name": "(NVT) Navegantes - Navegantes, Brasil",
+				"code": "NVT",
+				"city": "Navegantes",
+				"country": "Navegantes, Brasil"
+			},
+			{
+				"name": "(SDU) Rio De Janeiro - Rio De Janeiro - Santos Dumont, Brasil",
+				"code": "SDU",
+				"city": "Rio De Janeiro - Rio De Janeiro",
+				"country": "Santos Dumont, Brasil"
+			},
+			{
+				"name": "(SJP) São Jose Do Rio Preto - São Jose Do Rio Preto, Brasil",
+				"code": "SJP",
+				"city": "São Jose Do Rio Preto",
+				"country": "São Jose Do Rio Preto, Brasil"
+			},
+			{
+				"name": "(SLZ) São Luiz - São Luiz, Brasil",
+				"code": "SLZ",
+				"city": "São Luiz",
+				"country": "São Luiz, Brasil"
+			},
+			{
+				"name": "(PET) Pelotas - Pelotas, Brasil",
+				"code": "PET",
+				"city": "Pelotas",
+				"country": "Pelotas, Brasil"
+			},
+			{
+				"name": "(PFB) Passo Fundo - Passo Fundo, Brasil",
+				"code": "PFB",
+				"city": "Passo Fundo",
+				"country": "Passo Fundo, Brasil"
+			},
+			{
+				"name": "(PHB) Parnaiba - Parnaiba, Brasil",
+				"code": "PHB",
+				"city": "Parnaiba",
+				"country": "Parnaiba, Brasil"
+			},
+			{
+				"name": "(STM) Santarém - Santarém, Brasil",
+				"code": "STM",
+				"city": "Santarém",
+				"country": "Santarém, Brasil"
+			},
+			{
+				"name": "(PMW) Palmas - Palmas, Brasil",
+				"code": "PMW",
+				"city": "Palmas",
+				"country": "Palmas, Brasil"
+			},
+			{
+				"name": "(PNZ) Petrolina - Petrolina, Brasil",
+				"code": "PNZ",
+				"city": "Petrolina",
+				"country": "Petrolina, Brasil"
+			},
+			{
+				"name": "(TBT) Tabatinga - Tabatinga, Brasil",
+				"code": "TBT",
+				"city": "Tabatinga",
+				"country": "Tabatinga, Brasil"
+			},
+			{
+				"name": "(PPB) Presidente Prudente - Presidente Prudente, Brasil",
+				"code": "PPB",
+				"city": "Presidente Prudente",
+				"country": "Presidente Prudente, Brasil"
+			},
+			{
+				"name": "(TFF) Tefe - Tefe, Brasil",
+				"code": "TFF",
+				"city": "Tefe",
+				"country": "Tefe, Brasil"
+			},
+			{
+				"name": "(CGH) São Paulo - São Paulo - Congonhas, Brasil",
+				"code": "CGH",
+				"city": "São Paulo - São Paulo",
+				"country": "Congonhas, Brasil"
+			},
+			{
+				"name": "(VCP) Campinas - São Paulo - Viracopos, Brasil",
+				"code": "VCP",
+				"city": "Campinas - São Paulo",
+				"country": "Viracopos, Brasil"
+			},
+			{
+				"name": "(POA) Porto Alegre - Porto Alegre, Brasil",
+				"code": "POA",
+				"city": "Porto Alegre",
+				"country": "Porto Alegre, Brasil"
+			},
+			{
+				"name": "(NAT) Natal - Natal, Brasil",
+				"code": "NAT",
+				"city": "Natal",
+				"country": "Natal, Brasil"
+			},
+			{
+				"name": "(CNF) Belo Horizonte - Belo Horizonte, Brasil",
+				"code": "CNF",
+				"city": "Belo Horizonte",
+				"country": "Belo Horizonte, Brasil"
+			},
+			{
+				"name": "(BEL) Belém - Belém, Brasil",
+				"code": "BEL",
+				"city": "Belém",
+				"country": "Belém, Brasil"
+			},
+			{
+				"name": "(RIO) Rio De Janeiro - Rio De Janeiro - todos os aeroportos, Brasil",
+				"code": "RIO",
+				"city": "Rio De Janeiro - Rio De Janeiro",
+				"country": "todos os aeroportos, Brasil"
+			},
+			{
+				"name": "(SAO) São Paulo - São Paulo - todos os aeroportos, Brasil",
+				"code": "SAO",
+				"city": "São Paulo - São Paulo",
+				"country": "todos os aeroportos, Brasil"
+			},
+			{
+				"name": "(REC) Recife - Recife, Brasil",
+				"code": "REC",
+				"city": "Recife",
+				"country": "Recife, Brasil"
+			},
+			{
+				"name": "(SSA) Salvador - Salvador, Brasil",
+				"code": "SSA",
+				"city": "Salvador",
+				"country": "Salvador, Brasil"
+			},
+			{
+				"name": "(FOR) Fortaleza - Fortaleza, Brasil",
+				"code": "FOR",
+				"city": "Fortaleza",
+				"country": "Fortaleza, Brasil"
+			},
+			{
+				"name": "(BSB) Brasília - Brasília, Brasil",
+				"code": "BSB",
+				"city": "Brasília",
+				"country": "Brasília, Brasil"
+			},
+			{
+				"name": "(GIG) Rio De Janeiro - Rio De Janeiro, Brasil",
+				"code": "GIG",
+				"city": "Rio De Janeiro",
+				"country": "Rio De Janeiro, Brasil"
+			},
+			{
+				"name": "(GRU) São Paulo - São Paulo - Guarulhos, Brasil",
+				"code": "GRU",
+				"city": "São Paulo - São Paulo",
+				"country": "Guarulhos, Brasil"
+			},
+			{
+				"name": "(CRC) Cartago - Cartago, Colômbia",
+				"code": "CRC",
+				"city": "Cartago",
+				"country": "Cartago, Colômbia"
+			},
+			{
+				"name": "(CTG) Cartagena - Cartagena, Colômbia",
+				"code": "CTG",
+				"city": "Cartagena",
+				"country": "Cartagena, Colômbia"
+			},
+			{
+				"name": "(CUC) Cucuta - Cucuta, Colômbia",
+				"code": "CUC",
+				"city": "Cucuta",
+				"country": "Cucuta, Colômbia"
+			},
+			{
+				"name": "(ADZ) San Andres - San Andres, Colômbia",
+				"code": "ADZ",
+				"city": "San Andres",
+				"country": "San Andres, Colômbia"
+			},
+			{
+				"name": "(AXM) Arménia - Arménia, Colômbia",
+				"code": "AXM",
+				"city": "Arménia",
+				"country": "Arménia, Colômbia"
+			},
+			{
+				"name": "(BAQ) Barranquilla - Barranquilla, Colômbia",
+				"code": "BAQ",
+				"city": "Barranquilla",
+				"country": "Barranquilla, Colômbia"
+			},
+			{
+				"name": "(BGA) Bucaramanga - Bucaramanga, Colômbia",
+				"code": "BGA",
+				"city": "Bucaramanga",
+				"country": "Bucaramanga, Colômbia"
+			},
+			{
+				"name": "(CLO) Cali - Cali, Colômbia",
+				"code": "CLO",
+				"city": "Cali",
+				"country": "Cali, Colômbia"
+			},
+			{
+				"name": "(MDE) Medellin - Medellin, Colômbia",
+				"code": "MDE",
+				"city": "Medellin",
+				"country": "Medellin, Colômbia"
+			},
+			{
+				"name": "(PEI) Pereira - Pereira, Colômbia",
+				"code": "PEI",
+				"city": "Pereira",
+				"country": "Pereira, Colômbia"
+			},
+			{
+				"name": "(SMR) Santa Marta - Santa Marta, Colômbia",
+				"code": "SMR",
+				"city": "Santa Marta",
+				"country": "Santa Marta, Colômbia"
+			},
+			{
+				"name": "(BOG) Bogotá - Bogotá, Colômbia",
+				"code": "BOG",
+				"city": "Bogotá",
+				"country": "Bogotá, Colômbia"
+			},
+			{
+				"name": "(AAX)  - Araxa, Brasil",
+				"code": "AAX",
+				"city": "",
+				"country": "Araxa, Brasil"
+			},
+			{
+				"name": "(ASU) Assunção - Assunção, Paraguai",
+				"code": "ASU",
+				"city": "Assunção",
+				"country": "Assunção, Paraguai"
+			},
+			{
+				"name": "(GYE) Guayaquil - Guayaquil, Equador",
+				"code": "GYE",
+				"city": "Guayaquil",
+				"country": "Guayaquil, Equador"
+			},
+			{
+				"name": "(UIO) Quito - Quito, Equador",
+				"code": "UIO",
+				"city": "Quito",
+				"country": "Quito, Equador"
+			},
+			{
+				"name": "(LIM) Lima - Lima, Peru",
+				"code": "LIM",
+				"city": "Lima",
+				"country": "Lima, Peru"
+			},
+			{
+				"name": "(PTY) Cidade do Panamá - Cidade do Panamá, Panamá",
+				"code": "PTY",
+				"city": "Cidade do Panamá",
+				"country": "Cidade do Panamá, Panamá"
+			},
+			{
+				"name": "(MGA) Managua - Managua, Nicarágua",
+				"code": "MGA",
+				"city": "Managua",
+				"country": "Managua, Nicarágua"
+			},
+			{
+				"name": "(MVD) Montevideu - Montevideu, Uruguai",
+				"code": "MVD",
+				"city": "Montevideu",
+				"country": "Montevideu, Uruguai"
+			},
+			{
+				"name": "(SCL) Santiago do Chile - Santiago do Chile, Chile",
+				"code": "SCL",
+				"city": "Santiago do Chile",
+				"country": "Santiago do Chile, Chile"
+			},
+			{
+				"name": "(SJO) San Jose - San Jose, Costa Rica",
+				"code": "SJO",
+				"city": "San Jose",
+				"country": "San Jose, Costa Rica"
+			},
+			{
+				"name": "(CCS) Caracas - Caracas, Venezuela",
+				"code": "CCS",
+				"city": "Caracas",
+				"country": "Caracas, Venezuela"
+			}
+		]
+	},
+	{
+		"id": "2",
+		"name": "América do Norte",
+		"airports": [
+			{
+				"name": "(YYC) Calgary - Calgary, Canadá",
+				"code": "YYC",
+				"city": "Calgary",
+				"country": "Calgary, Canadá"
+			},
+			{
+				"name": "(YVR) Vancouver - Vancouver, Canadá",
+				"code": "YVR",
+				"city": "Vancouver",
+				"country": "Vancouver, Canadá"
+			},
+			{
+				"name": "(YOW) Ottawa - Ottawa, Canadá",
+				"code": "YOW",
+				"city": "Ottawa",
+				"country": "Ottawa, Canadá"
+			},
+			{
+				"name": "(YQB) Quebec - Quebec, Canadá",
+				"code": "YQB",
+				"city": "Quebec",
+				"country": "Quebec, Canadá"
+			},
+			{
+				"name": "(YUL) Montreal - Montreal, Canadá",
+				"code": "YUL",
+				"city": "Montreal",
+				"country": "Montreal, Canadá"
+			},
+			{
+				"name": "(YYZ) Toronto - Toronto, Canadá",
+				"code": "YYZ",
+				"city": "Toronto",
+				"country": "Toronto, Canadá"
+			},
+			{
+				"name": "(HAV) Havana - Havana, Cuba",
+				"code": "HAV",
+				"city": "Havana",
+				"country": "Havana, Cuba"
+			},
+			{
+				"name": "(COS) Colorado Springs - Colorado Springs, Estados Unidos da América",
+				"code": "COS",
+				"city": "Colorado Springs",
+				"country": "Colorado Springs, Estados Unidos da América"
+			},
+			{
+				"name": "(CRW) Charleston - Charleston, Estados Unidos da América",
+				"code": "CRW",
+				"city": "Charleston",
+				"country": "Charleston, Estados Unidos da América"
+			},
+			{
+				"name": "(DAB) Daytona Beach - Daytona Beach, Estados Unidos da América",
+				"code": "DAB",
+				"city": "Daytona Beach",
+				"country": "Daytona Beach, Estados Unidos da América"
+			},
+			{
+				"name": "(DAY) Dayton - Dayton, Estados Unidos da América",
+				"code": "DAY",
+				"city": "Dayton",
+				"country": "Dayton, Estados Unidos da América"
+			},
+			{
+				"name": "(DFW) Dalas - Dalas, Estados Unidos da América",
+				"code": "DFW",
+				"city": "Dalas",
+				"country": "Dalas, Estados Unidos da América"
+			},
+			{
+				"name": "(DSM) Des Moines - Des Moines, Estados Unidos da América",
+				"code": "DSM",
+				"city": "Des Moines",
+				"country": "Des Moines, Estados Unidos da América"
+			},
+			{
+				"name": "(DTW) Detroit - Detroit, Estados Unidos da América",
+				"code": "DTW",
+				"city": "Detroit",
+				"country": "Detroit, Estados Unidos da América"
+			},
+			{
+				"name": "(EGE) Eagle - Eagle, Estados Unidos da América",
+				"code": "EGE",
+				"city": "Eagle",
+				"country": "Eagle, Estados Unidos da América"
+			},
+			{
+				"name": "(ELP) El Paso - El Paso, Estados Unidos da América",
+				"code": "ELP",
+				"city": "El Paso",
+				"country": "El Paso, Estados Unidos da América"
+			},
+			{
+				"name": "(FAR) Fargo - Fargo, Estados Unidos da América",
+				"code": "FAR",
+				"city": "Fargo",
+				"country": "Fargo, Estados Unidos da América"
+			},
+			{
+				"name": "(FAT) Fresno - Fresno, Estados Unidos da América",
+				"code": "FAT",
+				"city": "Fresno",
+				"country": "Fresno, Estados Unidos da América"
+			},
+			{
+				"name": "(FLL) Ft Lauderdale - Ft Lauderdale, Estados Unidos da América",
+				"code": "FLL",
+				"city": "Ft Lauderdale",
+				"country": "Ft Lauderdale, Estados Unidos da América"
+			},
+			{
+				"name": "(ABE) Allentown - Allentown, Estados Unidos da América",
+				"code": "ABE",
+				"city": "Allentown",
+				"country": "Allentown, Estados Unidos da América"
+			},
+			{
+				"name": "(FMY) Fort Myers - Fort Myers - Page Field, Estados Unidos da América",
+				"code": "FMY",
+				"city": "Fort Myers - Fort Myers",
+				"country": "Page Field, Estados Unidos da América"
+			},
+			{
+				"name": "(ABQ) Albuquerque - Albuquerque, Estados Unidos da América",
+				"code": "ABQ",
+				"city": "Albuquerque",
+				"country": "Albuquerque, Estados Unidos da América"
+			},
+			{
+				"name": "(FSD) Sioux Falls - Sioux Falls, Estados Unidos da América",
+				"code": "FSD",
+				"city": "Sioux Falls",
+				"country": "Sioux Falls, Estados Unidos da América"
+			},
+			{
+				"name": "(FWA) Ft Wayne - Ft Wayne, Estados Unidos da América",
+				"code": "FWA",
+				"city": "Ft Wayne",
+				"country": "Ft Wayne, Estados Unidos da América"
+			},
+			{
+				"name": "(GEG) Spokane - Spokane, Estados Unidos da América",
+				"code": "GEG",
+				"city": "Spokane",
+				"country": "Spokane, Estados Unidos da América"
+			},
+			{
+				"name": "(ALB) Albany - Albany, Estados Unidos da América",
+				"code": "ALB",
+				"city": "Albany",
+				"country": "Albany, Estados Unidos da América"
+			},
+			{
+				"name": "(GJT) Grand Junction - Grand Junction, Estados Unidos da América",
+				"code": "GJT",
+				"city": "Grand Junction",
+				"country": "Grand Junction, Estados Unidos da América"
+			},
+			{
+				"name": "(GRB) Green Bay - Green Bay, Estados Unidos da América",
+				"code": "GRB",
+				"city": "Green Bay",
+				"country": "Green Bay, Estados Unidos da América"
+			},
+			{
+				"name": "(GRR) Grand Rapids - Grand Rapids, Estados Unidos da América",
+				"code": "GRR",
+				"city": "Grand Rapids",
+				"country": "Grand Rapids, Estados Unidos da América"
+			},
+			{
+				"name": "(AMA) Amarillo - Amarillo, Estados Unidos da América",
+				"code": "AMA",
+				"city": "Amarillo",
+				"country": "Amarillo, Estados Unidos da América"
+			},
+			{
+				"name": "(ANC) Anchorage - Anchorage, Estados Unidos da América",
+				"code": "ANC",
+				"city": "Anchorage",
+				"country": "Anchorage, Estados Unidos da América"
+			},
+			{
+				"name": "(GSP) Greenville - Greenville - Greenville Spartanburg, Estados Unidos da América",
+				"code": "GSP",
+				"city": "Greenville - Greenville",
+				"country": "Greenville Spartanburg, Estados Unidos da América"
+			},
+			{
+				"name": "(GUC) Gunnison - Gunnison, Estados Unidos da América",
+				"code": "GUC",
+				"city": "Gunnison",
+				"country": "Gunnison, Estados Unidos da América"
+			},
+			{
+				"name": "(ATW) Appleton - Appleton, Estados Unidos da América",
+				"code": "ATW",
+				"city": "Appleton",
+				"country": "Appleton, Estados Unidos da América"
+			},
+			{
+				"name": "(HAR) Harrisburg - Harrisburg, Estados Unidos da América",
+				"code": "HAR",
+				"city": "Harrisburg",
+				"country": "Harrisburg, Estados Unidos da América"
+			},
+			{
+				"name": "(AUS) Austin - Austin, Estados Unidos da América",
+				"code": "AUS",
+				"city": "Austin",
+				"country": "Austin, Estados Unidos da América"
+			},
+			{
+				"name": "(HFD) Hartford - Hartford - todos os aeroportos, Estados Unidos da América",
+				"code": "HFD",
+				"city": "Hartford - Hartford",
+				"country": "todos os aeroportos, Estados Unidos da América"
+			},
+			{
+				"name": "(AVL) Asheville - Asheville, Estados Unidos da América",
+				"code": "AVL",
+				"city": "Asheville",
+				"country": "Asheville, Estados Unidos da América"
+			},
+			{
+				"name": "(HNL) Honolulu - Honolulu, Estados Unidos da América",
+				"code": "HNL",
+				"city": "Honolulu",
+				"country": "Honolulu, Estados Unidos da América"
+			},
+			{
+				"name": "(HSV) Huntsville - Huntsville, Estados Unidos da América",
+				"code": "HSV",
+				"city": "Huntsville",
+				"country": "Huntsville, Estados Unidos da América"
+			},
+			{
+				"name": "(BDL) Hartford - Hartford - Bradley Intl, Estados Unidos da América",
+				"code": "BDL",
+				"city": "Hartford - Hartford",
+				"country": "Bradley Intl, Estados Unidos da América"
+			},
+			{
+				"name": "(IAD) Washington - Washington - Dulles, Estados Unidos da América",
+				"code": "IAD",
+				"city": "Washington - Washington",
+				"country": "Dulles, Estados Unidos da América"
+			},
+			{
+				"name": "(ICT) Wichita - Wichita, Estados Unidos da América",
+				"code": "ICT",
+				"city": "Wichita",
+				"country": "Wichita, Estados Unidos da América"
+			},
+			{
+				"name": "(BHM) Birmingham - Birmingham, Estados Unidos da América",
+				"code": "BHM",
+				"city": "Birmingham",
+				"country": "Birmingham, Estados Unidos da América"
+			},
+			{
+				"name": "(BIL) Billings - Billings, Estados Unidos da América",
+				"code": "BIL",
+				"city": "Billings",
+				"country": "Billings, Estados Unidos da América"
+			},
+			{
+				"name": "(IND) Indianapolis - Indianapolis, Estados Unidos da América",
+				"code": "IND",
+				"city": "Indianapolis",
+				"country": "Indianapolis, Estados Unidos da América"
+			},
+			{
+				"name": "(BIS) Bismarck - Bismarck, Estados Unidos da América",
+				"code": "BIS",
+				"city": "Bismarck",
+				"country": "Bismarck, Estados Unidos da América"
+			},
+			{
+				"name": "(BNA) Nashville - Nashville, Estados Unidos da América",
+				"code": "BNA",
+				"city": "Nashville",
+				"country": "Nashville, Estados Unidos da América"
+			},
+			{
+				"name": "(ITH) Ithaca - Ithaca, Estados Unidos da América",
+				"code": "ITH",
+				"city": "Ithaca",
+				"country": "Ithaca, Estados Unidos da América"
+			},
+			{
+				"name": "(BOI) Boise - Boise, Estados Unidos da América",
+				"code": "BOI",
+				"city": "Boise",
+				"country": "Boise, Estados Unidos da América"
+			},
+			{
+				"name": "(JAC) Jackson - Jackson, Estados Unidos da América",
+				"code": "JAC",
+				"city": "Jackson",
+				"country": "Jackson, Estados Unidos da América"
+			},
+			{
+				"name": "(JAX) Jacksonville - Jacksonville, Estados Unidos da América",
+				"code": "JAX",
+				"city": "Jacksonville",
+				"country": "Jacksonville, Estados Unidos da América"
+			},
+			{
+				"name": "(BTR) Baton Rouge - Baton Rouge, Estados Unidos da América",
+				"code": "BTR",
+				"city": "Baton Rouge",
+				"country": "Baton Rouge, Estados Unidos da América"
+			},
+			{
+				"name": "(BTV) Burlington - Burlington, Estados Unidos da América",
+				"code": "BTV",
+				"city": "Burlington",
+				"country": "Burlington, Estados Unidos da América"
+			},
+			{
+				"name": "(BUF) Buffalo - Buffalo, Estados Unidos da América",
+				"code": "BUF",
+				"city": "Buffalo",
+				"country": "Buffalo, Estados Unidos da América"
+			},
+			{
+				"name": "(BWI) Baltimore - Baltimore, Estados Unidos da América",
+				"code": "BWI",
+				"city": "Baltimore",
+				"country": "Baltimore, Estados Unidos da América"
+			},
+			{
+				"name": "(LAN) Lansing - Lansing, Estados Unidos da América",
+				"code": "LAN",
+				"city": "Lansing",
+				"country": "Lansing, Estados Unidos da América"
+			},
+			{
+				"name": "(BZN) Bozeman - Bozeman, Estados Unidos da América",
+				"code": "BZN",
+				"city": "Bozeman",
+				"country": "Bozeman, Estados Unidos da América"
+			},
+			{
+				"name": "(LAS) Las Vegas - Las Vegas, Estados Unidos da América",
+				"code": "LAS",
+				"city": "Las Vegas",
+				"country": "Las Vegas, Estados Unidos da América"
+			},
+			{
+				"name": "(CAE) Columbia - Columbia, Estados Unidos da América",
+				"code": "CAE",
+				"city": "Columbia",
+				"country": "Columbia, Estados Unidos da América"
+			},
+			{
+				"name": "(LBB) Lubbock - Lubbock, Estados Unidos da América",
+				"code": "LBB",
+				"city": "Lubbock",
+				"country": "Lubbock, Estados Unidos da América"
+			},
+			{
+				"name": "(CAK) Akron - Akron, Estados Unidos da América",
+				"code": "CAK",
+				"city": "Akron",
+				"country": "Akron, Estados Unidos da América"
+			},
+			{
+				"name": "(LEX) Lexington - Lexington, Estados Unidos da América",
+				"code": "LEX",
+				"city": "Lexington",
+				"country": "Lexington, Estados Unidos da América"
+			},
+			{
+				"name": "(CLT) Charlotte - Charlotte, Estados Unidos da América",
+				"code": "CLT",
+				"city": "Charlotte",
+				"country": "Charlotte, Estados Unidos da América"
+			},
+			{
+				"name": "(CHO) Charlottesville - Charlottesville, Estados Unidos da América",
+				"code": "CHO",
+				"city": "Charlottesville",
+				"country": "Charlottesville, Estados Unidos da América"
+			},
+			{
+				"name": "(LIT) Little Rock - Little Rock, Estados Unidos da América",
+				"code": "LIT",
+				"city": "Little Rock",
+				"country": "Little Rock, Estados Unidos da América"
+			},
+			{
+				"name": "(CHS) Charleston - Charleston, Estados Unidos da América",
+				"code": "CHS",
+				"city": "Charleston",
+				"country": "Charleston, Estados Unidos da América"
+			},
+			{
+				"name": "(CMH) Columbus - Columbus, Estados Unidos da América",
+				"code": "CMH",
+				"city": "Columbus",
+				"country": "Columbus, Estados Unidos da América"
+			},
+			{
+				"name": "(CID) Cedar Rapids - Cedar Rapids, Estados Unidos da América",
+				"code": "CID",
+				"city": "Cedar Rapids",
+				"country": "Cedar Rapids, Estados Unidos da América"
+			},
+			{
+				"name": "(CLE) Cleveland - Cleveland, Estados Unidos da América",
+				"code": "CLE",
+				"city": "Cleveland",
+				"country": "Cleveland, Estados Unidos da América"
+			},
+			{
+				"name": "(MBS) Saginaw - Saginaw, Estados Unidos da América",
+				"code": "MBS",
+				"city": "Saginaw",
+				"country": "Saginaw, Estados Unidos da América"
+			},
+			{
+				"name": "(MCI) Kansas City - Kansas City, Estados Unidos da América",
+				"code": "MCI",
+				"city": "Kansas City",
+				"country": "Kansas City, Estados Unidos da América"
+			},
+			{
+				"name": "(MCO) Orlando - Orlando, Estados Unidos da América",
+				"code": "MCO",
+				"city": "Orlando",
+				"country": "Orlando, Estados Unidos da América"
+			},
+			{
+				"name": "(PVD) Providence - Providence, Estados Unidos da América",
+				"code": "PVD",
+				"city": "Providence",
+				"country": "Providence, Estados Unidos da América"
+			},
+			{
+				"name": "(MEM) Memphis - Memphis, Estados Unidos da América",
+				"code": "MEM",
+				"city": "Memphis",
+				"country": "Memphis, Estados Unidos da América"
+			},
+			{
+				"name": "(TPA) Tampa - Tampa, Estados Unidos da América",
+				"code": "TPA",
+				"city": "Tampa",
+				"country": "Tampa, Estados Unidos da América"
+			},
+			{
+				"name": "(PWM) Portland - Portland, Maine, Estados Unidos da América",
+				"code": "PWM",
+				"city": "Portland",
+				"country": "Portland, Maine, Estados Unidos da América"
+			},
+			{
+				"name": "(TUL) Tulsa - Tulsa, Estados Unidos da América",
+				"code": "TUL",
+				"city": "Tulsa",
+				"country": "Tulsa, Estados Unidos da América"
+			},
+			{
+				"name": "(MHT) Manchester - Manchester, Estados Unidos da América",
+				"code": "MHT",
+				"city": "Manchester",
+				"country": "Manchester, Estados Unidos da América"
+			},
+			{
+				"name": "(TUS) Tucson - Tucson, Estados Unidos da América",
+				"code": "TUS",
+				"city": "Tucson",
+				"country": "Tucson, Estados Unidos da América"
+			},
+			{
+				"name": "(TVC) Traverse City - Traverse City, Estados Unidos da América",
+				"code": "TVC",
+				"city": "Traverse City",
+				"country": "Traverse City, Estados Unidos da América"
+			},
+			{
+				"name": "(TYS) Knoxville - Knoxville, Estados Unidos da América",
+				"code": "TYS",
+				"city": "Knoxville",
+				"country": "Knoxville, Estados Unidos da América"
+			},
+			{
+				"name": "(MKE) Milwaukee - Milwaukee, Estados Unidos da América",
+				"code": "MKE",
+				"city": "Milwaukee",
+				"country": "Milwaukee, Estados Unidos da América"
+			},
+			{
+				"name": "(RAP) Rapid City - Rapid City, Estados Unidos da América",
+				"code": "RAP",
+				"city": "Rapid City",
+				"country": "Rapid City, Estados Unidos da América"
+			},
+			{
+				"name": "(MLI) Moline - Moline, Estados Unidos da América",
+				"code": "MLI",
+				"city": "Moline",
+				"country": "Moline, Estados Unidos da América"
+			},
+			{
+				"name": "(MSN) Madison - Madison, Estados Unidos da América",
+				"code": "MSN",
+				"city": "Madison",
+				"country": "Madison, Estados Unidos da América"
+			},
+			{
+				"name": "(MSO) Missoula - Missoula, Estados Unidos da América",
+				"code": "MSO",
+				"city": "Missoula",
+				"country": "Missoula, Estados Unidos da América"
+			},
+			{
+				"name": "(RIC) Richmond - Richmond, Estados Unidos da América",
+				"code": "RIC",
+				"city": "Richmond",
+				"country": "Richmond, Estados Unidos da América"
+			},
+			{
+				"name": "(MSP) Minneapolis - Minneapolis, Estados Unidos da América",
+				"code": "MSP",
+				"city": "Minneapolis",
+				"country": "Minneapolis, Estados Unidos da América"
+			},
+			{
+				"name": "(MSY) Nova Orleães - Nova Orleães, Estados Unidos da América",
+				"code": "MSY",
+				"city": "Nova Orleães",
+				"country": "Nova Orleães, Estados Unidos da América"
+			},
+			{
+				"name": "(RNO) Reno - Reno, Estados Unidos da América",
+				"code": "RNO",
+				"city": "Reno",
+				"country": "Reno, Estados Unidos da América"
+			},
+			{
+				"name": "(ROA) Roanoke - Roanoke, Estados Unidos da América",
+				"code": "ROA",
+				"city": "Roanoke",
+				"country": "Roanoke, Estados Unidos da América"
+			},
+			{
+				"name": "(WAS) Washington - Washington - todos os aeroportos, Estados Unidos da América",
+				"code": "WAS",
+				"city": "Washington - Washington",
+				"country": "todos os aeroportos, Estados Unidos da América"
+			},
+			{
+				"name": "(ROC) Rochester - Rochester, Estados Unidos da América",
+				"code": "ROC",
+				"city": "Rochester",
+				"country": "Rochester, Estados Unidos da América"
+			},
+			{
+				"name": "(MYR) Myrtle Beach - Myrtle Beach, Estados Unidos da América",
+				"code": "MYR",
+				"city": "Myrtle Beach",
+				"country": "Myrtle Beach, Estados Unidos da América"
+			},
+			{
+				"name": "(XNA) Fayetteville - Fayetteville, Estados Unidos da América",
+				"code": "XNA",
+				"city": "Fayetteville",
+				"country": "Fayetteville, Estados Unidos da América"
+			},
+			{
+				"name": "(RSW) Fort Myers - Fort Myers - Regional Southwest, Estados Unidos da América",
+				"code": "RSW",
+				"city": "Fort Myers - Fort Myers",
+				"country": "Regional Southwest, Estados Unidos da América"
+			},
+			{
+				"name": "(SAC) Sacramento - Sacramento, Estados Unidos da América",
+				"code": "SAC",
+				"city": "Sacramento",
+				"country": "Sacramento, Estados Unidos da América"
+			},
+			{
+				"name": "(OAK) Oakland - Oakland, Estados Unidos da América",
+				"code": "OAK",
+				"city": "Oakland",
+				"country": "Oakland, Estados Unidos da América"
+			},
+			{
+				"name": "(SAN) San Diego - San Diego, Estados Unidos da América",
+				"code": "SAN",
+				"city": "San Diego",
+				"country": "San Diego, Estados Unidos da América"
+			},
+			{
+				"name": "(OKC) Oklahoma City - Oklahoma City, Estados Unidos da América",
+				"code": "OKC",
+				"city": "Oklahoma City",
+				"country": "Oklahoma City, Estados Unidos da América"
+			},
+			{
+				"name": "(OMA) Omaha - Omaha, Estados Unidos da América",
+				"code": "OMA",
+				"city": "Omaha",
+				"country": "Omaha, Estados Unidos da América"
+			},
+			{
+				"name": "(SAT) San Antonio - San Antonio, Estados Unidos da América",
+				"code": "SAT",
+				"city": "San Antonio",
+				"country": "San Antonio, Estados Unidos da América"
+			},
+			{
+				"name": "(ONT) Ontario - Ontario, Estados Unidos da América",
+				"code": "ONT",
+				"city": "Ontario",
+				"country": "Ontario, Estados Unidos da América"
+			},
+			{
+				"name": "(SAV) Savannah - Savannah, Estados Unidos da América",
+				"code": "SAV",
+				"city": "Savannah",
+				"country": "Savannah, Estados Unidos da América"
+			},
+			{
+				"name": "(SBN) South Bend - South Bend, Estados Unidos da América",
+				"code": "SBN",
+				"city": "South Bend",
+				"country": "South Bend, Estados Unidos da América"
+			},
+			{
+				"name": "(ORD) Chicago - Chicago, Estados Unidos da América",
+				"code": "ORD",
+				"city": "Chicago",
+				"country": "Chicago, Estados Unidos da América"
+			},
+			{
+				"name": "(SDF) Louisville - Louisville, Estados Unidos da América",
+				"code": "SDF",
+				"city": "Louisville",
+				"country": "Louisville, Estados Unidos da América"
+			},
+			{
+				"name": "(ORF) Norfolk Newport News - Norfolk Newport News, Estados Unidos da América",
+				"code": "ORF",
+				"city": "Norfolk Newport News",
+				"country": "Norfolk Newport News, Estados Unidos da América"
+			},
+			{
+				"name": "(SEA) Seattle - Seattle, Estados Unidos da América",
+				"code": "SEA",
+				"city": "Seattle",
+				"country": "Seattle, Estados Unidos da América"
+			},
+			{
+				"name": "(SFO) São Francisco - São Francisco, Estados Unidos da América",
+				"code": "SFO",
+				"city": "São Francisco",
+				"country": "São Francisco, Estados Unidos da América"
+			},
+			{
+				"name": "(SGF) Springfield - Springfield, Estados Unidos da América",
+				"code": "SGF",
+				"city": "Springfield",
+				"country": "Springfield, Estados Unidos da América"
+			},
+			{
+				"name": "(SJC) San Jose - San Jose, Estados Unidos da América",
+				"code": "SJC",
+				"city": "San Jose",
+				"country": "San Jose, Estados Unidos da América"
+			},
+			{
+				"name": "(PBI) West Palm Beach - West Palm Beach, Estados Unidos da América",
+				"code": "PBI",
+				"city": "West Palm Beach",
+				"country": "West Palm Beach, Estados Unidos da América"
+			},
+			{
+				"name": "(SJU) San Juan - San Juan, Estados Unidos da América",
+				"code": "SJU",
+				"city": "San Juan",
+				"country": "San Juan, Estados Unidos da América"
+			},
+			{
+				"name": "(PDX) Portland - Portland, Oregon, Estados Unidos da América",
+				"code": "PDX",
+				"city": "Portland",
+				"country": "Portland, Oregon, Estados Unidos da América"
+			},
+			{
+				"name": "(SLC) Salt Lake City - Salt Lake City, Estados Unidos da América",
+				"code": "SLC",
+				"city": "Salt Lake City",
+				"country": "Salt Lake City, Estados Unidos da América"
+			},
+			{
+				"name": "(SNA) Santa Ana - Santa Ana, Estados Unidos da América",
+				"code": "SNA",
+				"city": "Santa Ana",
+				"country": "Santa Ana, Estados Unidos da América"
+			},
+			{
+				"name": "(PHL) Filadélfia - Filadélfia, Estados Unidos da América",
+				"code": "PHL",
+				"city": "Filadélfia",
+				"country": "Filadélfia, Estados Unidos da América"
+			},
+			{
+				"name": "(SPA) Greenville - Greenville - Downtown Memorial, Estados Unidos da América",
+				"code": "SPA",
+				"city": "Greenville - Greenville",
+				"country": "Downtown Memorial, Estados Unidos da América"
+			},
+			{
+				"name": "(PHX) Phoenix - Phoenix, Estados Unidos da América",
+				"code": "PHX",
+				"city": "Phoenix",
+				"country": "Phoenix, Estados Unidos da América"
+			},
+			{
+				"name": "(SPI) Springfield - Springfield, Estados Unidos da América",
+				"code": "SPI",
+				"city": "Springfield",
+				"country": "Springfield, Estados Unidos da América"
+			},
+			{
+				"name": "(PIA) Peoria - Peoria, Estados Unidos da América",
+				"code": "PIA",
+				"city": "Peoria",
+				"country": "Peoria, Estados Unidos da América"
+			},
+			{
+				"name": "(SRQ) Sarasota - Sarasota, Estados Unidos da América",
+				"code": "SRQ",
+				"city": "Sarasota",
+				"country": "Sarasota, Estados Unidos da América"
+			},
+			{
+				"name": "(PIT) Pittsburgo - Pittsburgo, Estados Unidos da América",
+				"code": "PIT",
+				"city": "Pittsburgo",
+				"country": "Pittsburgo, Estados Unidos da América"
+			},
+			{
+				"name": "(STL) St Louis - St Louis, Estados Unidos da América",
+				"code": "STL",
+				"city": "St Louis",
+				"country": "St Louis, Estados Unidos da América"
+			},
+			{
+				"name": "(PNS) Pensacola - Pensacola, Estados Unidos da América",
+				"code": "PNS",
+				"city": "Pensacola",
+				"country": "Pensacola, Estados Unidos da América"
+			},
+			{
+				"name": "(SYR) Syracuse - Syracuse, Estados Unidos da América",
+				"code": "SYR",
+				"city": "Syracuse",
+				"country": "Syracuse, Estados Unidos da América"
+			},
+			{
+				"name": "(PSP) Palm Springs - Palm Springs, Estados Unidos da América",
+				"code": "PSP",
+				"city": "Palm Springs",
+				"country": "Palm Springs, Estados Unidos da América"
+			},
+			{
+				"name": "(CVG) Cincinnati - Cincinnati, Estados Unidos da América",
+				"code": "CVG",
+				"city": "Cincinnati",
+				"country": "Cincinnati, Estados Unidos da América"
+			},
+			{
+				"name": "(DEN) Denver - Denver, Estados Unidos da América",
+				"code": "DEN",
+				"city": "Denver",
+				"country": "Denver, Estados Unidos da América"
+			},
+			{
+				"name": "(DCA) Washington - Washington - Ronald Reagan, Estados Unidos da América",
+				"code": "DCA",
+				"city": "Washington - Washington",
+				"country": "Ronald Reagan, Estados Unidos da América"
+			},
+			{
+				"name": "(ATL) Atlanta - Atlanta, Estados Unidos da América",
+				"code": "ATL",
+				"city": "Atlanta",
+				"country": "Atlanta, Estados Unidos da América"
+			},
+			{
+				"name": "(JFK) Nova Iorque - Nova Iorque - John F Kennedy, Estados Unidos da América",
+				"code": "JFK",
+				"city": "Nova Iorque - Nova Iorque",
+				"country": "John F Kennedy, Estados Unidos da América"
+			},
+			{
+				"name": "(IAH) Houston - Houston - George Bush, Estados Unidos da América",
+				"code": "IAH",
+				"city": "Houston - Houston",
+				"country": "George Bush, Estados Unidos da América"
+			},
+			{
+				"name": "(RDU) Raleigh - Raleigh, Estados Unidos da América",
+				"code": "RDU",
+				"city": "Raleigh",
+				"country": "Raleigh, Estados Unidos da América"
+			},
+			{
+				"name": "(MIA) Miami - Miami, Estados Unidos da América",
+				"code": "MIA",
+				"city": "Miami",
+				"country": "Miami, Estados Unidos da América"
+			},
+			{
+				"name": "(BOS) Boston - Boston, Estados Unidos da América",
+				"code": "BOS",
+				"city": "Boston",
+				"country": "Boston, Estados Unidos da América"
+			},
+			{
+				"name": "(HOU) Houston - Houston - Hobby, Estados Unidos da América",
+				"code": "HOU",
+				"city": "Houston - Houston",
+				"country": "Hobby, Estados Unidos da América"
+			},
+			{
+				"name": "(LAX) Los Angeles - Los Angeles, Estados Unidos da América",
+				"code": "LAX",
+				"city": "Los Angeles",
+				"country": "Los Angeles, Estados Unidos da América"
+			},
+			{
+				"name": "(NYC) Nova Iorque - Nova Iorque - todos os aeroportos, Estados Unidos da América",
+				"code": "NYC",
+				"city": "Nova Iorque - Nova Iorque",
+				"country": "todos os aeroportos, Estados Unidos da América"
+			},
+			{
+				"name": "(EWR) Nova Iorque - Nova Iorque - Newark, Estados Unidos da América",
+				"code": "EWR",
+				"city": "Nova Iorque - Nova Iorque",
+				"country": "Newark, Estados Unidos da América"
+			},
+			{
+				"name": "(GSO) Greensboro - Greensboro, Estados Unidos da América",
+				"code": "GSO",
+				"city": "Greensboro",
+				"country": "Greensboro, Estados Unidos da América"
+			},
+			{
+				"name": "(CUN) Cancun - Cancun, México",
+				"code": "CUN",
+				"city": "Cancun",
+				"country": "Cancun, México"
+			},
+			{
+				"name": "(MEX) Cidade do México - Cidade do México, México",
+				"code": "MEX",
+				"city": "Cidade do México",
+				"country": "Cidade do México, México"
+			}
+		]
+	},
+	{
+		"id": "3",
+		"name": "África",
+		"airports": [
+			{
+				"name": "(UEL) Quelimane - Quelimane, Moçambique",
+				"code": "UEL",
+				"city": "Quelimane",
+				"country": "Quelimane, Moçambique"
+			},
+			{
+				"name": "(POL) Pemba - Pemba, Moçambique",
+				"code": "POL",
+				"city": "Pemba",
+				"country": "Pemba, Moçambique"
+			},
+			{
+				"name": "(VXC) Lichinga - Lichinga, Moçambique",
+				"code": "VXC",
+				"city": "Lichinga",
+				"country": "Lichinga, Moçambique"
+			},
+			{
+				"name": "(VPY) Chimoio - Chimoio, Moçambique",
+				"code": "VPY",
+				"city": "Chimoio",
+				"country": "Chimoio, Moçambique"
+			},
+			{
+				"name": "(VNX) Vilanculos - Vilanculos, Moçambique",
+				"code": "VNX",
+				"city": "Vilanculos",
+				"country": "Vilanculos, Moçambique"
+			},
+			{
+				"name": "(TET) Tete - Tete, Moçambique",
+				"code": "TET",
+				"city": "Tete",
+				"country": "Tete, Moçambique"
+			},
+			{
+				"name": "(APL) Nampula - Nampula, Moçambique",
+				"code": "APL",
+				"city": "Nampula",
+				"country": "Nampula, Moçambique"
+			},
+			{
+				"name": "(BEW) Beira - Beira, Moçambique",
+				"code": "BEW",
+				"city": "Beira",
+				"country": "Beira, Moçambique"
+			},
+			{
+				"name": "(INH) Inhambane - Inhambane, Moçambique",
+				"code": "INH",
+				"city": "Inhambane",
+				"country": "Inhambane, Moçambique"
+			},
+			{
+				"name": "(MPM) Maputo - Maputo, Moçambique",
+				"code": "MPM",
+				"city": "Maputo",
+				"country": "Maputo, Moçambique"
+			},
+			{
+				"name": "(ORN) Oran - Oran, Argélia",
+				"code": "ORN",
+				"city": "Oran",
+				"country": "Oran, Argélia"
+			},
+			{
+				"name": "(TLM) Tlemcen - Tlemcen, Argélia",
+				"code": "TLM",
+				"city": "Tlemcen",
+				"country": "Tlemcen, Argélia"
+			},
+			{
+				"name": "(AAE) Annaba - Annaba, Argélia",
+				"code": "AAE",
+				"city": "Annaba",
+				"country": "Annaba, Argélia"
+			},
+			{
+				"name": "(BJA) Bejaia - Bejaia, Argélia",
+				"code": "BJA",
+				"city": "Bejaia",
+				"country": "Bejaia, Argélia"
+			},
+			{
+				"name": "(BLJ) Batna - Batna, Argélia",
+				"code": "BLJ",
+				"city": "Batna",
+				"country": "Batna, Argélia"
+			},
+			{
+				"name": "(BSK) Biskra - Biskra, Argélia",
+				"code": "BSK",
+				"city": "Biskra",
+				"country": "Biskra, Argélia"
+			},
+			{
+				"name": "(CZL) Constantine - Constantine, Argélia",
+				"code": "CZL",
+				"city": "Constantine",
+				"country": "Constantine, Argélia"
+			},
+			{
+				"name": "(ALG) Argel - Argel, Argélia",
+				"code": "ALG",
+				"city": "Argel",
+				"country": "Argel, Argélia"
+			},
+			{
+				"name": "(LXR) Luxor - Luxor, Egipto",
+				"code": "LXR",
+				"city": "Luxor",
+				"country": "Luxor, Egipto"
+			},
+			{
+				"name": "(ASW) Aswan - Aswan, Egipto",
+				"code": "ASW",
+				"city": "Aswan",
+				"country": "Aswan, Egipto"
+			},
+			{
+				"name": "(CAI) Cairo - Cairo, Egipto",
+				"code": "CAI",
+				"city": "Cairo",
+				"country": "Cairo, Egipto"
+			},
+			{
+				"name": "(SNE) São Nicolau - São Nicolau, Cabo Verde",
+				"code": "SNE",
+				"city": "São Nicolau",
+				"country": "São Nicolau, Cabo Verde"
+			},
+			{
+				"name": "(MMO) Maio - Maio, Cabo Verde",
+				"code": "MMO",
+				"city": "Maio",
+				"country": "Maio, Cabo Verde"
+			},
+			{
+				"name": "(SFL) São Filipe - São Filipe, Cabo Verde",
+				"code": "SFL",
+				"city": "São Filipe",
+				"country": "São Filipe, Cabo Verde"
+			},
+			{
+				"name": "(VXE) São Vicente - São Vicente, Cabo Verde",
+				"code": "VXE",
+				"city": "São Vicente",
+				"country": "São Vicente, Cabo Verde"
+			},
+			{
+				"name": "(RAI) Praia - Praia, Cabo Verde",
+				"code": "RAI",
+				"city": "Praia",
+				"country": "Praia, Cabo Verde"
+			},
+			{
+				"name": "(SID) Sal - Sal, Cabo Verde",
+				"code": "SID",
+				"city": "Sal",
+				"country": "Sal, Cabo Verde"
+			},
+			{
+				"name": "(BVC) Boa Vista - Boa Vista, Cabo Verde",
+				"code": "BVC",
+				"city": "Boa Vista",
+				"country": "Boa Vista, Cabo Verde"
+			},
+			{
+				"name": "(WDH) Windhoek - Windhoek, Namíbia",
+				"code": "WDH",
+				"city": "Windhoek",
+				"country": "Windhoek, Namíbia"
+			},
+			{
+				"name": "(HRE) Harare - Harare, Zimbábue",
+				"code": "HRE",
+				"city": "Harare",
+				"country": "Harare, Zimbábue"
+			},
+			{
+				"name": "(CPT) Cidade do Cabo - Cidade do Cabo, África do Sul",
+				"code": "CPT",
+				"city": "Cidade do Cabo",
+				"country": "Cidade do Cabo, África do Sul"
+			},
+			{
+				"name": "(DUR) Durban - Durban, África do Sul",
+				"code": "DUR",
+				"city": "Durban",
+				"country": "Durban, África do Sul"
+			},
+			{
+				"name": "(ELS) East London - East London, África do Sul",
+				"code": "ELS",
+				"city": "East London",
+				"country": "East London, África do Sul"
+			},
+			{
+				"name": "(JNB) Joanesburgo - Joanesburgo, África do Sul",
+				"code": "JNB",
+				"city": "Joanesburgo",
+				"country": "Joanesburgo, África do Sul"
+			},
+			{
+				"name": "(PLZ) Port Elizabeth - Port Elizabeth, África do Sul",
+				"code": "PLZ",
+				"city": "Port Elizabeth",
+				"country": "Port Elizabeth, África do Sul"
+			},
+			{
+				"name": "(BKO) Bamako - Bamako, Mali",
+				"code": "BKO",
+				"city": "Bamako",
+				"country": "Bamako, Mali"
+			},
+			{
+				"name": "(FEZ) Fez - Fez Ma, Marrocos",
+				"code": "FEZ",
+				"city": "Fez",
+				"country": "Fez Ma, Marrocos"
+			},
+			{
+				"name": "(RAK) Marraquexe - Marraquexe, Marrocos",
+				"code": "RAK",
+				"city": "Marraquexe",
+				"country": "Marraquexe, Marrocos"
+			},
+			{
+				"name": "(TNG) Tânger - Tânger, Marrocos",
+				"code": "TNG",
+				"city": "Tânger",
+				"country": "Tânger, Marrocos"
+			},
+			{
+				"name": "(CAS) Casablanca - Casablanca - Anfa Airport, Marrocos",
+				"code": "CAS",
+				"city": "Casablanca - Casablanca",
+				"country": "Anfa Airport, Marrocos"
+			},
+			{
+				"name": "(CMN) Casablanca - Casablanca, Marrocos",
+				"code": "CMN",
+				"city": "Casablanca",
+				"country": "Casablanca, Marrocos"
+			},
+			{
+				"name": "(OXB) Bissau - Bissau, Guiné-Bissau",
+				"code": "OXB",
+				"city": "Bissau - Bissau, Guin",
+				"country": "Bissau"
+			},
+			{
+				"name": "(ABJ)  - Abidjan, Costa do Marfim",
+				"code": "ABJ",
+				"city": "",
+				"country": "Abidjan, Costa do Marfim"
+			},
+			{
+				"name": "(LFW) Lomé - Lomé, Togo",
+				"code": "LFW",
+				"city": "Lomé",
+				"country": "Lomé, Togo"
+			},
+			{
+				"name": "(LAD) Luanda - Luanda, Angola",
+				"code": "LAD",
+				"city": "Luanda",
+				"country": "Luanda, Angola"
+			},
+			{
+				"name": "(TMS) São Tomé - São Tomé, São Tomé e Príncipe",
+				"code": "TMS",
+				"city": "São Tomé",
+				"country": "São Tomé, São Tomé e Príncipe"
+			},
+			{
+				"name": "(DSS) Dakar - Dakar - Dakar, Senegal",
+				"code": "DSS",
+				"city": "Dakar - Dakar",
+				"country": "Dakar, Senegal"
+			},
+			{
+				"name": "(DSS) Dakar - Dakar - Dakar, Senegal",
+				"code": "DSS",
+				"city": "Dakar - Dakar",
+				"country": "Dakar, Senegal"
+			},
+			{
+				"name": "(ACC) Acra - Acra, Gana",
+				"code": "ACC",
+				"city": "Acra",
+				"country": "Acra, Gana"
+			}
+		]
+	},
+	{
+		"id": "4",
+		"name": "Ásia e Oceânia",
+		"airports": [
+			{
+				"name": "(SIN) Singapura - Singapura, Singapura",
+				"code": "SIN",
+				"city": "Singapura",
+				"country": "Singapura, Singapura"
+			},
+			{
+				"name": "(PVG) Xangai - Xangai - Xangai, República Popular da China",
+				"code": "PVG",
+				"city": "Xangai - Xangai",
+				"country": "Xangai, República Popular da China"
+			},
+			{
+				"name": "(SHA) Xangai - Xangai - todos os aeroportos, República Popular da China",
+				"code": "SHA",
+				"city": "Xangai - Xangai",
+				"country": "todos os aeroportos, República Popular da China"
+			},
+			{
+				"name": "(PEK) Pequim - Pequim, República Popular da China",
+				"code": "PEK",
+				"city": "Pequim",
+				"country": "Pequim, República Popular da China"
+			},
+			{
+				"name": "(SSH) Sharm El Sheik - Sharm El Sheik, Egipto",
+				"code": "SSH",
+				"city": "Sharm El Sheik",
+				"country": "Sharm El Sheik, Egipto"
+			},
+			{
+				"name": "(ASR) Kayseri - Kayseri, Turquia",
+				"code": "ASR",
+				"city": "Kayseri",
+				"country": "Kayseri, Turquia"
+			},
+			{
+				"name": "(ADA) Adana - Adana, Turquia",
+				"code": "ADA",
+				"city": "Adana",
+				"country": "Adana, Turquia"
+			},
+			{
+				"name": "(ADB) Izmir - Izmir, Turquia",
+				"code": "ADB",
+				"city": "Izmir",
+				"country": "Izmir, Turquia"
+			},
+			{
+				"name": "(AYT) Antalya - Antalya, Turquia",
+				"code": "AYT",
+				"city": "Antalya",
+				"country": "Antalya, Turquia"
+			},
+			{
+				"name": "(ESB) Ankara - Ankara - Esenboga, Turquia",
+				"code": "ESB",
+				"city": "Ankara - Ankara",
+				"country": "Esenboga, Turquia"
+			},
+			{
+				"name": "(ANK) Ankara - Ankara - Etimesgut, Turquia",
+				"code": "ANK",
+				"city": "Ankara - Ankara",
+				"country": "Etimesgut, Turquia"
+			},
+			{
+				"name": "(KUL) Kuala Lumpur - Kuala Lumpur, Malásia",
+				"code": "KUL",
+				"city": "Kuala Lumpur",
+				"country": "Kuala Lumpur, Malásia"
+			},
+			{
+				"name": "(AUH) Abu Dabi - Abu Dabi, Emirados Árabes Unidos",
+				"code": "AUH",
+				"city": "Abu Dabi",
+				"country": "Abu Dabi, Emirados Árabes Unidos"
+			},
+			{
+				"name": "(DXB) Dubai - Dubai, Emirados Árabes Unidos",
+				"code": "DXB",
+				"city": "Dubai",
+				"country": "Dubai, Emirados Árabes Unidos"
+			},
+			{
+				"name": "(BKK) Banguecoque - Banguecoque, Tailândia",
+				"code": "BKK",
+				"city": "Banguecoque",
+				"country": "Banguecoque, Tailândia"
+			},
+			{
+				"name": "(MFM) Macau - Macau, República Popular da China",
+				"code": "MFM",
+				"city": "Macau",
+				"country": "Macau, República Popular da China"
+			},
+			{
+				"name": "(HKG) Hongkong - Hongkong, República Popular da China",
+				"code": "HKG",
+				"city": "Hongkong",
+				"country": "Hongkong, República Popular da China"
+			},
+			{
+				"name": "(TLV) Telavive - Telavive, Israel",
+				"code": "TLV",
+				"city": "Telavive",
+				"country": "Telavive, Israel"
+			}
+		]
+	}
+]

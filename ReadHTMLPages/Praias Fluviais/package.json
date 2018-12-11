@@ -1,0 +1,22 @@
+{
+  "name": "readpages",
+  "version": "1.0.0",
+  "description": "Read html pages",
+  "main": "PraiasFluviais.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "André Farinha",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AFarinha/ReadHTMLPages.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AFarinha/ReadHTMLPages/issues"
+  },
+  "homepage": "https://github.com/AFarinha/ReadHTMLPages#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2"
+  }
+}
