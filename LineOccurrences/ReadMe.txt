@@ -1,0 +1,1 @@
+Conta o número de ocorrencias por query (linha) e cria um excel
